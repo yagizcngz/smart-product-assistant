@@ -2636,7 +2636,2036 @@
       "Ekran ve Çözünürlük": "5 İnç LCD Monitör, 1080p FHD Kamera",
       "Gece Görüşü": "Otomatik Kızılötesi (IR) Sensör",
       "İletişim": "Çift Yönlü Konuşma (Bas-Konuş) ve Dahili Ninniler",
-      "Ekstra Özellikler": "Oda Sıcaklığı Takibi ve Ağlama Algılama Sensörü"
+    "Ekstra Özellikler": "Oda Sıcaklığı Takibi ve Ağlama Algılama Sensörü"
+    }
+  },
+  {
+    "id": 221,
+    "baslik": "AlphaTrail 45L Sırt Çantası",
+    "aciklama": "Hafta sonu kamplarından çok günlü trekking maceralarına kadar her türlü doğa yürüyüşünde güvenilir yol arkadaşınız olan ergonomik sırt çantası. Özel hava kanallı sırt paneli sayesinde uzun yürüyüşlerde sırtınız ter tutmaz ve ventilasyon maksimum düzeyde kalır.\n\nİçeriden kilitlenebilen laptop bölmesi, ayrı uyku tulumu haznesi ve yanda ıslak kıyafet cepleri ile içini her zaman düzenli tutmanızı sağlar. Entegre yağmurluk ve ışıklı reflektör şeritler, ani hava değişimlerine ve karanlıkta görünürlüğe karşı sizi daima hazırlıklı kılar.",
+    "fiyat": 2850.00,
+    "teknik_ozellikler": {
+      "Hacim": "45 Litre",
+      "Malzeme": "Ripstop Naylon 210D",
+      "Sırt Sistemi": "Ayarlanabilir Torso ve Kalça Kemeri",
+      "Ekstra": "Entegre Yağmurluk ve Hydration Uyumlu"
+    }
+  },
+  {
+    "id": 222,
+    "baslik": "RüzgarKalkan Softshell Trekking Ceketi",
+    "aciklama": "Dağ yollarının değişken havasına karşı mükemmel koruma sağlayan, hem hafif hem de ısı tutucu 3 katmanlı softshell ceket. Dış yüzeyi rüzgar ve hafif yağmura karşı dirençli olduğundan ayrıca bir yağmurluk taşıma zorunluluğunu ortadan kaldırır.\n\nKoltuk altındaki fermuarlı havalandırma delikleri (pit-zip), ağır yükselişlerde vücut ısısını düzenlemenize olanak tanır. Şekillendirilmiş dirsek tasarımı ve uzayan kolları, tırmanış ve kayak hareketlerinde tam hareket özgürlüğü sunar.",
+    "fiyat": 1950.00,
+    "teknik_ozellikler": {
+      "Malzeme": "3 Katmanlı Softshell Kompozit Kumaş",
+      "Su Geçirmezlik": "DWR Kaplama 10.000 mm",
+      "Ağırlık": "620 gram",
+      "Özellik": "Pit-Zip Ventilasyon, Şekillendirilmiş Dirsek"
+    }
+  },
+  {
+    "id": 223,
+    "baslik": "ZirveKoşu Karbon Fiber Trekking Sopası Çifti",
+    "aciklama": "Ultra hafif karbon fiber yapısıyla adeta elinize yapışan, iniş ve çıkışlarda dizlerinizi koruyan profesyonel yürüyüş sopası çifti. Patentli kilit mekanizması, istediğiniz uzunlukta sabitleyip gevşetmenizi tek elle saniyeler içinde gerçekleştirmenizi sağlar.\n\nKork ve EVA köpük karışımı tutacak, uzun kullanımlarda elde nem birikimini önler. Sopanın alt ucundaki değiştirilebilir metal uç, farklı zemin koşullarına (kar, kaya, toprak) göre ayarlanabilir ve aşınma takozları ayrıca temin edilebilir.",
+    "fiyat": 1450.00,
+    "teknik_ozellikler": {
+      "Malzeme": "%100 Karbon Fiber Gövde",
+      "Ayar Aralığı": "100 - 135 cm",
+      "Tutacak": "Kork / EVA Hibrit + Bilek Kayışı",
+      "Ağırlık": "Çift 480 gram"
+    }
+  },
+  {
+    "id": 224,
+    "baslik": "AquaShield Su Geçirmez Kamp Çizmesi",
+    "aciklama": "Çamurlu patikalardan dere geçişlerine, karlı arazilerden ıslak çayırlara kadar her zeminde ayaklarınızı kuru ve sıcak tutan dört mevsim kamp çizmesi. Gore-Tex membranı sayesinde hem içeriden nefes alır hem de dışarıdan su almaz.\n\nVibram taban teknolojisi, kayalık ve çamurlu zeminlerde kaymaz bir tutuş sağlarken, çelik burunlu koruyucu kapak taşların ve köklerin ayak parmaklarınıza zarar vermesini engeller. Özel ayak bileği desteği, uzun yürüyüşlerde burkulmayı önler.",
+    "fiyat": 2750.00,
+    "teknik_ozellikler": {
+      "Su Geçirmezlik": "Gore-Tex Membran",
+      "Taban": "Vibram Megagrip",
+      "Özellik": "Çelik Burun, Ayak Bileği Desteği",
+      "Kullanım": "4 Mevsim Trekking ve Kamp"
+    }
+  },
+  {
+    "id": 225,
+    "baslik": "MiniŞef Katlanabilir Silikon Kamp Bardağı Seti",
+    "aciklama": "Çantanızda neredeyse hiç yer kaplamayan ama ihtiyaç anında tam boyutlu bir bardağa dönüşen akıllı tasarımlı 4'lü kamp bardağı seti. Gıda sınıfı platinyum silikon malzemeden üretildiği için ne kadar sıcak olursa olsun şeklini kaybetmez ve eriمez.\n\nHer bardağın çevre bölümündeki ölçü işaretleri, yemek tariflerinde hassas ölçümler yapmanızı kolaylaştırır. Renk kodlu olan dört bardak sayesinde kamp arkadaşlarınızla bardaklarınızı karıştırmazsınız.",
+    "fiyat": 285.00,
+    "teknik_ozellikler": {
+      "Malzeme": "Platinyum Gıda Sınıfı Silikon",
+      "Hacim": "Her Bardak 240 ml",
+      "Dayanıklılık": "-40°C ile +230°C Arası",
+      "İçerik": "4 Farklı Renkli Bardak"
+    }
+  },
+  {
+    "id": 226,
+    "baslik": "DağKartalı Kompakt Dürbün 10x42",
+    "aciklama": "Kuş gözlemcilerinden av tutkunlarına, zirve fotoğrafçılarından doğa araştırmacılarına kadar geniş bir kullanıcı kitlesine hitap eden optik kalitesi yüksek kompakt dürbün. BAK-4 prizma sistemi ve tam kaplı FMC lensleri sayesinde alacakaranlık koşullarında bile parlak ve net görüntü sunar.\n\nIPX7 su geçirmezlik standardına sahip kauçuk kaplı gövdesi, yoğun yağmur altında bile güvenle kullanılabilir. Tek elle odaklama için merkezi tekerleği ile hedefi hızla netleyebilir, gözlük kullanıcılar için uzatılıp kısaltılabilen göz kapakları konforlu bir görüş açısı sağlar.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Büyütme": "10x42 mm",
+      "Prizma Tipi": "BAK-4 Roof Prizma",
+      "Su Geçirmezlik": "IPX7 (1 metre derinliğe kadar)",
+      "Görüş Açısı": "120 m / 1000 m"
+    }
+  },
+  {
+    "id": 227,
+    "baslik": "ŞimşekHızı Titanyum Çatal-Kaşık-Bıçak Seti",
+    "aciklama": "Piknik çantasına sığacak kadar küçük ama yemek deneyimini ev konforuna taşıyacak kadar kaliteli, titanyum alaşımlı ultralight yemek takımı. Titanyum malzeme; çeliğin dayanıklılığına sahipken ağırlığının yalnızca üçte birini taşır ve gıdalarla hiçbir kimyasal tepkimeye girmez.\n\nBıçak ucundaki serrasyonlu (dişli) bölüm ekmek, salam ve peynir gibi gıdaları kolayca keserken, kaşığın derin haznesi çorba ve tahıllar için idealdir. Tüm parçalar, çanta içinde birbirine kilitlenebilen kompakt bir tokalı bez kılıfa girer.",
+    "fiyat": 420.00,
+    "teknik_ozellikler": {
+      "Malzeme": "Grade 5 Titanyum Alaşım",
+      "İçerik": "Çatal, Kaşık, Dişli Bıçak",
+      "Toplam Ağırlık": "65 gram (3 Parça)",
+      "Kılıf": "Kanvas Bez Kılıf Dahil"
+    }
+  },
+  {
+    "id": 228,
+    "baslik": "KampAteşi Taşınabilir Odun Gazifikasyon Ocağı",
+    "aciklama": "Doğadaki küçük çalı, dal ve kozalaklarla çalışan, gaz kartuşuna veya benzine ihtiyaç duymayan çevre dostu çift yanma teknolojili kamp ocağı. Gazifikasyon prensibini kullanarak odundan çıkan gazı ikinci bir yanma katmanında tamamen yaktığı için neredeyse duman çıkarmaz ve karbon emisyonu minimumdur.\n\nPaslanmaz çelik gövdesi hem yüksek ısıya hem de darbelerine dayanır. Ocağın altındaki hava kanalları yanmayı otomatik olarak düzenleyerek yakıt verimliliğini artırır. Düz bir zeminde veya doğaya zarar vermeden taşlı bir zemine kurulabilir.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Yakıt": "Ahşap, Dal, Koni, Biyokütle",
+      "Teknoloji": "Çift Yanma Gazifikasyon",
+      "Malzeme": "304 Paslanmaz Çelik",
+      "Ağırlık": "320 gram"
+    }
+  },
+  {
+    "id": 229,
+    "baslik": "FırtınaÇadırı 2 Kişilik Ultralight Biyvy Çadır",
+    "aciklama": "Sadece 900 gram ağırlığıyla sırt çantasında kaybolup giden ama sizi şiddetli bir dağ fırtınasından koruyacak güce sahip ultralight biyvy çadır. Silnylon (silikonlu naylon) kumaşı su geçirmezlikte sınır tanımaz, üstelik geleneksel polyestere kıyasla ağırlığın neredeyse yarısıdır.\n\nTek pole (direk) sistemi sayesinde dakikalar içinde kurulur ve iki kişi ile eşyaları için yeterli iç hacme sahiptir. Tüm dikişleri bantlı olduğu için su sızdırma noktası yoktur. Ultra minimal çantaya giren bir kamp çadırı arayanlar için birebir bir çözüm.",
+    "fiyat": 3200.00,
+    "teknik_ozellikler": {
+      "Kapasite": "2 Kişi",
+      "Malzeme": "20D Silnylon Taban ve Üst Örtü",
+      "Su Geçirmezlik": "4000 mm",
+      "Ağırlık": "900 gram (Çantasıyla)"
+    }
+  },
+  {
+    "id": 230,
+    "baslik": "SeyahatPro Paslanmaz Çelik Kamp Çay Demlik Seti",
+    "aciklama": "Doğanın ortasında gerçek demleme keyfi yaşatmak için özel tasarlanmış 1.2 litrelik paslanmaz çelik demlik ve fincan seti. Paslanmaz çelik filtresi, çay torbasına veya tek kullanımlık kağıt filtreye ihtiyaç duymadan doğrudan yaprak çay demlemenize olanak tanır.\n\nDış yüzeyindeki lazer kazıma desen hem estetik hem de kavramayı kolaylaştıran pütürlü bir yüzey oluşturur. Üstte bulunan ısıya dayanıklı kauçuk tutacak, demliği ocaktan alırken elinizin yanmasını önler. İkisi iç içe yerleşen iki fincanla birlikte gelir.",
+    "fiyat": 545.00,
+    "teknik_ozellikler": {
+      "Hacim": "Demlik 1.2 L + 2 x 200 ml Fincan",
+      "Malzeme": "18/8 Paslanmaz Çelik",
+      "Filtre": "Dahili Paslanmaz Çelik Süzgeç",
+      "Ocak Uyumu": "Gaz, Alkol, Odun Ocağı"
+    }
+  },
+  {
+    "id": 231,
+    "baslik": "NightVision Güneş Enerjili Kamp Feneri",
+    "aciklama": "Gündüz güneş enerjisiyle şarj olan, gece hem çadır hem de kamp alanı aydınlatması için kullanılan çok modlu LED fener. Panel, günde 6-8 saat güneş ışığıyla tam kapasiteye ulaşır ve bu şarjla 12 saate kadar aydınlatma sağlar.\n\nBir iple ağaca veya çadır tavanına asılabilir, zemine bırakılabilir ya da katlanır halkasından tutulabilir. Kırmızı ışık modu böcek çekmez ve gece görüşünüzü bozmazken, SOS flaş modu acil durum işaretleme için kullanılır.",
+    "fiyat": 390.00,
+    "teknik_ozellikler": {
+      "Işık Gücü": "400 Lümen (Maksimum)",
+      "Şarj": "Güneş Paneli + USB-C",
+      "Modlar": "Yüksek / Düşük / Kırmızı / SOS Flaş",
+      "Pil Ömrü": "Tam şarjda 12 saat"
+    }
+  },
+  {
+    "id": 232,
+    "baslik": "TepeRüzgarı Paraşüt Naylon Hamak",
+    "aciklama": "Çantanızın yan cebine sığan 400 gramlık ağırlığıyla dünyanın en hafif konaklama sistemlerinden biri olan paraşüt naylon hamak. 270 kg taşıma kapasitesi sağlayan çift dokuma naylon kumaşı, kamp ateşinden sıçrayan kıvılcımlara bile dayanıklıdır.\n\nHer iki uca entegre karabinalar ve ayarlanabilir askı şeritleri (straps) sayesinde farklı ağaç mesafelerinde kurulum yapabilirsiniz. Renk seçenekleri arasından doğaya uyum sağlayan kamuflaj ve göz alıcı canlı renkler mevcuttur.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Taşıma Kapasitesi": "270 kg",
+      "Boyutlar": "290 x 140 cm",
+      "Malzeme": "Çift Dokuma Paraşüt Naylon",
+      "Ağırlık": "400 gram (Askılarla Birlikte)"
+    }
+  },
+  {
+    "id": 233,
+    "baslik": "IceBreaker Termal İç Çamaşır Takımı",
+    "aciklama": "Soğuk havada baz katman olarak kullanılan, vücut ısısını içine hapsederek hipotermiaya karşı ilk savunma hattını oluşturan merino yün termal takım. Merino yünü; sentetik alternatiflerin aksine koku tutmaz, bu nedenle çok günlük seyahatlerde her gün yıkamaya gerek kalmadan giyilebilir.\n\nİnce ve pürüzsüz yapısı sayesinde deri üzerinde kaşıma hissi oluşturmaz. Nem yönetim özellikleri sayesinde egzersiz sırasındaki teri deriden uzaklaştırır ve üşümenizi önler. Tişört ve uzun tayt olarak iki parça halinde gelir.",
+    "fiyat": 1680.00,
+    "teknik_ozellikler": {
+      "Malzeme": "%100 Merino Yünü 180 gsm",
+      "Kullanım": "Baz Katman (-10°C ye kadar)",
+      "Özellik": "Koku Tutmaz, Kaşımaz",
+      "İçerik": "Uzun Kollu Tişört + Uzun Tayt"
+    }
+  },
+  {
+    "id": 234,
+    "baslik": "KumSaati GPS Izci Saati",
+    "aciklama": "Amatörlere değil, gerçek dağcı ve yürüyüşçülere hitap eden askeri sınıf GPS saati. Barometrik altimetre, dijital pusula ve hava durumu tahmini gibi navigasyon araçları ile nerede olduğunuzu ve nereye gittiğinizi her an bilirsiniz.\n\nEkranda görüntülenen rota kaydı (breadcrumb trail) özelliği, nereden geldiğinizi takip ederek geldiğiniz yolu güvenle geri dönmenize yardımcı olur. MIL-STD-810 askeri standartları ile darbe, nem ve aşırı sıcaklıklara karşı sertifikalandırılmıştır.",
+    "fiyat": 4900.00,
+    "teknik_ozellikler": {
+      "GPS": "Çok Uydu Sistemi (GPS/GLONASS/Galileo)",
+      "Sensörler": "Altimetre, Barometre, Pusula",
+      "Pil Ömrü": "GPS modda 40 saat",
+      "Dayanıklılık": "MIL-STD-810, 10ATM Su Geçirmez"
+    }
+  },
+  {
+    "id": 235,
+    "baslik": "EkoYürüyüş Bambu Tabanlı Kamp Matı",
+    "aciklama": "Petrokimya kaynaklı köpük yerine hızla yenilenebilen bambu elyafından üretilen, hem çevre dostu hem de konforlu kamp yatma matı. Bambu, doğal olarak antibakteriyeldir ve nem emmez, bu sayede matta koku ve bakteri birikmez.\n\nPetek yapısındaki hücreler, zemin soğuğunu ve ıslanmasını vücudunuza iletmeden filtreler. Rulo yapıldığında standart bir kamp matından yüzde otuz daha az yer kaplar ve ısırgan madde içermez.",
+    "fiyat": 750.00,
+    "teknik_ozellikler": {
+      "Malzeme": "Bambu Elyaf Köpük",
+      "Boyutlar": "190 x 60 x 2.5 cm",
+      "R-Değeri": "2.2 (3 Mevsim)",
+      "Ağırlık": "580 gram"
+    }
+  },
+  {
+    "id": 236,
+    "baslik": "UltraFit Kablosuz Spor Kulaklık",
+    "aciklama": "Koşu, bisiklet ve outdoor aktiviteler için özel tasarlanan, kulak kepçesinin anatomik şekline oturan ve hiçbir zaman düşmeyen spor kulaklık. IPX7 sertifikalı su geçirmezliği; ter, yağmur ve hatta kısa süreli dalışlarda bile arıza yaratmaz.\n\nÇevresel ses geçirme (transparency) modu açık tutulduğunda trafik, dağ arkadaşları ve acil uyarı seslerini müziği kapatmadan duyabilirsiniz. Tek şarjda 9 saat, şarj kutusuyla 36 saate kadar müzik çalma süresi sunar.",
+    "fiyat": 1290.00,
+    "teknik_ozellikler": {
+      "Bağlantı": "Bluetooth 5.3",
+      "Su Geçirmezlik": "IPX7",
+      "Pil Ömrü": "9 saat + 27 saat şarj kutusu",
+      "Özellik": "Çevresel Ses Modu, Aktif Gürültü Engelleme"
+    }
+  },
+  {
+    "id": 237,
+    "baslik": "SmartWatch Pro 2 Sağlık İzleme Saati",
+    "aciklama": "Sporcuların ve aktif yaşam tutkunlarının sağlık verilerini sürekli takip eden, medikal sınıf sensörlere sahip gelişmiş akıllı saat. EKG ölçümü, kan oksijen saturasyonu (SpO2), deri altı ısı sensörü ve uyku apnesi tespiti ile bir bileğe sığabilecek en gelişmiş sağlık monitörüdür.\n\nAlüminyum çerçeve içindeki AMOLED ekranı güneş ışığında bile rahatlıkla okunabilir. 14 günlük pil ömrüyle seyahatlerde şarj kaygısı yaşatmaz. Android ve iOS ile tam uyumludur ve 100'den fazla antrenman moduna sahiptir.",
+    "fiyat": 6500.00,
+    "teknik_ozellikler": {
+      "Sensörler": "EKG, SpO2, Deri Isısı, Nabız",
+      "Ekran": "1.43\" AMOLED",
+      "Pil Ömrü": "14 Gün (Normal Kullanım)",
+      "Uyumluluk": "Android 8+ ve iOS 14+"
+    }
+  },
+  {
+    "id": 238,
+    "baslik": "SonicBoom 360° Bluetooth Hoparlör",
+    "aciklama": "Kamp ateşinin etrafında, sahilde veya bahçe partisinde tüm katılımcıları eşit kalitede sesle saran 360 derece omnidireksiyonel ses teknolojisine sahip taşınabilir hoparlör. Çift pasif radyatörü sayesinde boyutuna orantısız güçlü bas üretir.\n\nIPX6 su geçirmezliği ve şok emici kauçuk kafası outdoor kullanıma elverişli kılınmıştır. Bir şarjda 24 saate kadar çalıştığı için kamp boyunca müzik kesilmez. Üzerindeki power bank butonu ile telefonunuzu şarj edebilirsiniz.",
+    "fiyat": 1750.00,
+    "teknik_ozellikler": {
+      "Ses Gücü": "30W RMS",
+      "Bağlantı": "Bluetooth 5.0, AUX, USB-C",
+      "Su Geçirmezlik": "IPX6",
+      "Pil Ömrü": "24 Saat, Dahili 6000 mAh Güç Bankası"
+    }
+  },
+  {
+    "id": 239,
+    "baslik": "VoltEdge 65W GaN Çoklu Şarj Adaptörü",
+    "aciklama": "GaN (Galyum Nitrür) teknolojisiyle geleneksel adaptörlerden kat kat küçük boyutlarda üretilen ama dört cihazı aynı anda şarj edebilen güç evi. Laptop, tablet, telefon ve kulaklık şarj kutusunu tek adaptörle aynı anda besleyebilirsiniz.\n\nPD 3.0 ve QC 4.0 hızlı şarj protokollerini desteklediği için uyumlu telefonları yarım saatte sıfırdan yüzde elliye ulaştırır. Seyahatlerde dünya genelindeki prizlerle uyumlu olan evrensel girişi sayesinde adaptör çevirici taşımak gerekmez.",
+    "fiyat": 890.00,
+    "teknik_ozellikler": {
+      "Toplam Güç": "65W",
+      "Portlar": "2x USB-C PD + 2x USB-A QC",
+      "Teknoloji": "GaN, PD 3.0, QC 4.0",
+      "Uyumluluk": "Evrensel 100-240V Giriş"
+    }
+  },
+  {
+    "id": 240,
+    "baslik": "DroneView X5 Mini Katlanabilir Drone",
+    "aciklama": "Avucunuzun içine sığan katlanabilir tasarımıyla her yere götürebileceğiniz, 4K hava fotoğrafçılığını demokratikleştiren kullanıcı dostu drone. Otomatik engel algılama sistemi sayesinde acemi kullanıcılar bile çarpmaktan korkmadan güvenle uçurabilir.\n\n3 eksenli gimbal stabilizasyonu, rüzgarda ya da hızlı hareket esnasında bile titreşimsiz mükemmel video çekilmesini sağlar. Follow-me modu ile aktivitelerinizi kayıt altına alırken elinizi kolunuzu sallayarak yürüyebilir, bisiklete binebilir veya kayak yapabilirsiniz.",
+    "fiyat": 8500.00,
+    "teknik_ozellikler": {
+      "Kamera": "4K 60fps, 1/2 inç CMOS",
+      "Uçuş Süresi": "35 Dakika",
+      "Menzil": "10 km Video Aktarım",
+      "Stabilizasyon": "3 Eksenli Gimbal"
+    }
+  },
+  {
+    "id": 241,
+    "baslik": "PhotoPro 64MP Aksiyon Kamerası",
+    "aciklama": "Ekstrem sporlarda, sualtında ve adventure seyahatlerde anlarınızı sinematik kalitede kaydeden kompakt aksiyon kamerası. 64 megapiksel fotoğraf ve 4K/120fps süper ağır çekim video kapasitesiyle profesyonel çıktılar sunar.\n\nSualtı 30 metreye kadar koruyucu ek kılıfa gerek duymadan gömülü su geçirmez yapısıyla dalış fotoğrafçılığı yapabilirsiniz. Magnet montaj sistemi kask, bisiklet gidon, sörf tahtası ve araç ön camına saniyeler içinde takılıp çıkartılabilir.",
+    "fiyat": 3800.00,
+    "teknik_ozellikler": {
+      "Fotoğraf": "64 Megapiksel",
+      "Video": "4K@120fps, 1080p@240fps",
+      "Su Geçirmezlik": "30 metre (koruyucusuz)",
+      "Stabilizasyon": "6 Eksenli HorizonSteady"
+    }
+  },
+  {
+    "id": 242,
+    "baslik": "TabletPad Pro 11\" 2K Ekranlı Android Tablet",
+    "aciklama": "Çizim, not alma, film izleme ve dijital okuma için optimize edilmiş, ince çerçeveli 2K çözünürlüklü ekranıyla her içeriği canlı renklerle sunan premium Android tablet. MediaTek Dimensity 9000 işlemcisi ve 12GB RAM kombinasyonu, ağır uygulamalarda bile akıcı bir deneyim garanti eder.\n\n10.000 mAh bataryası sayesinde vidyo izlemede 14 saate kadar kullanım süresi sunar. Ek aksesuar olarak satılan manyetik klavye kılıf ile tam bir laptop deneyimine dönüştürülür. Kalem giriş desteği (4096 basınç kademesi) not alma ve tasarım uygulamaları için mükemmeldir.",
+    "fiyat": 11500.00,
+    "teknik_ozellikler": {
+      "Ekran": "11 inç 2560x1600 120Hz",
+      "İşlemci": "Dimensity 9000, 12GB RAM",
+      "Pil": "10.000 mAh, 65W Hızlı Şarj",
+      "Depolama": "256GB UFS 3.1"
+    }
+  },
+  {
+    "id": 243,
+    "baslik": "ErgoPro Mekanik Oyun Klavyesi",
+    "aciklama": "Her tuş vuruşunun taktil geri bildirimiyle tatmin edici bir his uyandırdığı mekanik anahtarlara sahip, RGB aydınlatmalı oyun klavyesi. Kırmızı (linear), mavi (clicky) ve kahverengi (taktil) anahtar seçenekleri kişisel tercihinize göre sipariş verilebilir.\n\nAlüminyum üst plaka titreşimi azaltır ve premium yapıma katkıda bulunurken, ayrılabilir USB-C kablosu kablo yönetimini kolaylaştırır. N-tuş rollover (NKRO) özelliği sayesinde aynı anda basılan tüm tuşlar eksiksiz algılanır.",
+    "fiyat": 2200.00,
+    "teknik_ozellikler": {
+      "Anahtarlar": "Mekanik (Kırmızı/Mavi/Kahverengi Seçenek)",
+      "Aydınlatma": "Per-Key RGB 16.8 milyon renk",
+      "Bağlantı": "USB-C Kablolu + Bluetooth 5.0",
+      "Ekstra": "NKRO, Alüminyum Üst Plaka"
+    }
+  },
+  {
+    "id": 244,
+    "baslik": "ClearVue 27\" 4K Monitör",
+    "aciklama": "Renk hassasiyeti gerektiren grafik tasarım, video düzenleme ve fotoğrafçılık çalışmalarını sınıf atlatacak, fabrika kalibrasyonlu IPS panel 4K monitör. Delta E < 2 renk doğruluğu ve %99 sRGB, %95 DCI-P3 renk gamı kapsaması ile profesyonel çalışmalarda baskı ile ekran arasındaki renk farkını minimuma indirir.\n\nYükseklik, eğim ve döndürme ayarı yapılabilen ergonomik standı ve VESA desteği sayesinde her masa düzenine uyum sağlar. HDMI 2.1, DisplayPort 1.4 ve USB-C (90W güç aktarımı) çoklu bağlantı seçenekleri sunar.",
+    "fiyat": 14900.00,
+    "teknik_ozellikler": {
+      "Ekran": "27 inç IPS 4K (3840x2160) 60Hz",
+      "Renk": "%99 sRGB, %95 DCI-P3, Delta E < 2",
+      "Bağlantı": "HDMI 2.1, DisplayPort 1.4, USB-C 90W",
+      "Ekstra": "Fabrika Kalibrasyonlu, HDR400"
+    }
+  },
+  {
+    "id": 245,
+    "baslik": "TurboSound Kulak Üstü Aktif Gürültü Engelleyici Kulaklık",
+    "aciklama": "Açık plan ofislerin gürültüsünü, uçak motorunu ve şehir kaosunu saniyeler içinde yok eden endüstri standartı aktif gürültü engelleme teknolojisine sahip kulak üstü kulaklık. Kafanızı saran bellek sünger kulak yastıkları ve ayarlanabilir kafa bandı 8 saatlik kullanımda bile yorgunluk hissi oluşturmaz.\n\nLDAC codec desteği ile ses akışını yüksek kalitede iletir. Kulaklık kapatıldığında akıllı algı sistemi otomatik olarak müziği duraklatır. 30 saatlik pil ömrü ile haftalık iş seyahatleri boyunca şarj edilmek zorunda kalmaz.",
+    "fiyat": 4200.00,
+    "teknik_ozellikler": {
+      "ANC": "Adaptif Aktif Gürültü Engelleme (-40dB)",
+      "Codec": "LDAC, AAC, SBC",
+      "Pil Ömrü": "30 saat (ANC açık), 40 saat (ANC kapalı)",
+      "Bağlantı": "Bluetooth 5.2 + 3.5mm Kablolu"
+    }
+  },
+  {
+    "id": 246,
+    "baslik": "EcoSmart Akıllı Güç Çerçevesi",
+    "aciklama": "Evinizin her odasındaki elektrik tüketimini gerçek zamanlı olarak izleyen ve bekleme modundaki cihazları otomatik kapatan akıllı çoklu priz. Her prize ayrı güç ve tüketim ölçümü gösterimi, hangi cihazın ne kadar enerji harcadığını kesin olarak öğrenmenizi sağlar.\n\nUygulama üzerinden zamanlama ve otomasyon senaryoları kurulabilir; örneğin çocukların uyku saatinde oyun konsollarını otomatik kapatan bir kural oluşturulabilir. Koşullu yükler (kondisyoner, çamaşır makinesi) için aşırı yük koruma devreye girer.",
+    "fiyat": 1150.00,
+    "teknik_ozellikler": {
+      "Prize Sayısı": "6 Akıllı Priz + 4 USB-A + 2 USB-C",
+      "Bağlantı": "Wi-Fi 2.4GHz, Uygulama Kontrolü",
+      "Enerji Takibi": "Gerçek Zamanlı kWh Ölçümü",
+      "Koruma": "Aşırı Yük, Gerilim, Yıldırım Koruması"
+    }
+  },
+  {
+    "id": 247,
+    "baslik": "RoboSweep Pro Akıllı Robot Süpürge",
+    "aciklama": "Evin haritasını çıkararak en kısa rota ile temizlik yapan lazer navigasyonlu robot süpürge. Ev planını uygulamaya kaydederek farklı odalar için farklı temizlik programları ve no-go (yasak bölge) zonları tanımlayabilirsiniz.\n\nSu deposu takılı olduğunda otomatik olarak paspas moduna geçen hibrit temizleme kafası, sert zemin ve halıyı birbirinden ayırt ederek zemine uygun temizlik modunu uygular. 180 dakikalık pil ömrünün sonunda doldurma istasyonuna döner, şarj olur ve kaldığı yerden devam eder.",
+    "fiyat": 8900.00,
+    "teknik_ozellikler": {
+      "Navigasyon": "LiDAR Lazer Haritalama",
+      "Emiş Gücü": "4000 Pa",
+      "Temizlik": "Süpürme + Islak/Kuru Paspas",
+      "Pil Ömrü": "180 dakika, Otomatik Docking"
+    }
+  },
+  {
+    "id": 248,
+    "baslik": "CoolBreeze Taşınabilir Hava Temizleyici",
+    "aciklama": "Polenleri, toz akarlarını, evcil hayvan tüylerini ve uçucu organik bileşenleri (VOC) filtreleyen HEPA H13 ve aktif karbon filtreli hava temizleyici. Küçük ve kompakt formu sayesinde hem yatak odası gece lambası büyüklüğünde masanızın üzerinde hem de arabanızın torpido gözünde kullanılabilir.\n\nSes seviyesi gece modunda 20 dB'nin altına düşerek uyku kalitesini bozmadan çalışır. Akıllı PM2.5 sensörü havanın kalitesini anlık ölçer ve LED renk çemberiyle görsel olarak gösterir. Uygulama üzerinden uzaktan kontrol edilebilir.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Filtre": "HEPA H13 + Aktif Karbon",
+      "CADR": "120 m³/saat",
+      "Ses Seviyesi": "Gece modunda 18 dB",
+      "Sensör": "Gerçek Zamanlı PM2.5 Hava Kalitesi"
+    }
+  },
+  {
+    "id": 249,
+    "baslik": "SmartLock Pro Parmak İzi ve Şifreli Akıllı Kilit",
+    "aciklama": "Anahtar taşıma zorunluluğunu ortadan kaldıran, beş farklı açma yöntemi sunan akıllı kapı kilidi. Parmak izi, PIN kodu, NFC kart, Bluetooth ile uygulama ve fiziksel yedek anahtar seçenekleri sayesinde her durumda kapınızı açabilirsiniz.\n\nUygulama üzerinden misafirlere geçici erişim kodları oluşturabilir ve kullanım geçmişini anlık olarak takip edebilirsiniz. Kilidin düşük pil uyarısı gönderme özelliği, beklenmedik bir anda mahsur kalmanızı önler. Çoğu standart kapı kilidinin yerine kolayca monte edilebilir.",
+    "fiyat": 3200.00,
+    "teknik_ozellikler": {
+      "Açma Yöntemleri": "Parmak İzi, PIN, NFC, Bluetooth, Anahtar",
+      "Parmak İzi": "0.3 Saniye Açma Hızı, 100 Kullanıcı",
+      "Pil": "8 AA Pil veya USB-C Acil Şarj",
+      "Kayıt": "Uygulama Üzerinden Erişim Geçmişi"
+    }
+  },
+  {
+    "id": 250,
+    "baslik": "AeroClean Akıllı Robot Pencere Temizleyici",
+    "aciklama": "Cam yüzeylere yapıştırarak kendi kendine temizlik yapan, yüksekte cam silme tehlikesini ortadan kaldıran robot pencere temizleyici. Güçlü vakum motoru sayesinde dikey ve eğimli camlarda dahi tutunarak hareket eder.\n\nUltrasonik su spreyi ile camı ıslatır, döner mikrofiber pedleri ile kireci, parmak izini ve sisleri temizler. Güç kesilmesi durumunda güvenlik halatı camdan düşmesini önler. 90 dakikalık pil ömrü standart bir balkon camı temizliği için yeterliden fazladır.",
+    "fiyat": 4500.00,
+    "teknik_ozellikler": {
+      "Çalışma": "Vakumlu Cam Yapışma Sistemi",
+      "Temizleme": "Ultrasonik Su Spreyi + Mikrofiber",
+      "Pil Ömrü": "90 dakika",
+      "Güvenlik": "Güç Kesintisi Kilitleme + Güvenlik Halatı"
+    }
+  },
+  {
+    "id": 251,
+    "baslik": "PowerStation 500W Taşınabilir Güç İstasyonu",
+    "aciklama": "Kamp, dağ evi, arıza anı veya hafif inşaat çalışmaları için hem yenilenebilir enerji (güneş) hem de şebeke ile şarj edilebilen büyük kapasiteli taşınabilir güç istasyonu. 500Wh LiFePO4 bataryası, klasik lityum iyon bataryalara kıyasla 5 kat daha uzun döngü ömrüne sahiptir.\n\nÜç standart prizden, iki USB-C PD çıkışından, iki USB-A çıkışından ve 12V DC çıkışından aynı anda 8 cihaz besleyebilir. 200W güneş paneli bağlandığında 3 saat içinde tam şarja ulaşır. OLED ekranı kalan kapasite ve anlık güç akışını net olarak gösterir.",
+    "fiyat": 9800.00,
+    "teknik_ozellikler": {
+      "Kapasite": "500 Wh LiFePO4",
+      "Çıkış": "500W Kesintisiz (1000W Tepe)",
+      "Şarj": "Şebeke 80W + Güneş 200W + Araç",
+      "Portlar": "3x AC + 2x USB-C + 2x USB-A + 12V DC"
+    }
+  },
+  {
+    "id": 252,
+    "baslik": "HydroPress Elektrikli Kahve Makinesi",
+    "aciklama": "Öğütme kalınlığından sıcaklığa, basınçtan demleme süresine kadar her parametreyi hassas şekilde kontrol edebildiğiniz barista kaliteli espresso makinesi. 15 bar profesyonel pompa ile kafe standartında espresso bazlı tüm içecekleri evde çıkarabilirsiniz.\n\nEntegre buhar çubuğu ile köpüklü latte art süt yapabilirken, dahili ısıtma kasesi fincanları servise hazır sıcaklıkta tutar. Paslanmaz çelik tasarımı ve kompakt boyutu, mutfak tezgahında hem şık hem de işlevsel bir duruş sergiler.",
+    "fiyat": 5600.00,
+    "teknik_ozellikler": {
+      "Pompa Basıncı": "15 Bar Profesyonel Pompa",
+      "Isıtma": "PID Termostat (±1°C Hassasiyeti)",
+      "Süt Köpürtme": "Buharlı Wand",
+      "Ekstra": "Fincan Isıtma Kasesi, Tek/Çift Shot"
+    }
+  },
+  {
+    "id": 253,
+    "baslik": "ChefMaster 8L Akıllı Çok Fonksiyonlu Pişirici",
+    "aciklama": "Düdüklü tencere, yavaş pişirici, pilav tenceresi, yoğurt yapıcı, sote tenceresi ve steamer görevlerini tek cihazda toplayan akıllı mutfak asistanı. 300'den fazla dahili tarif ve uygulamadan indirilebilen topluluk tarifleriyle her yemek bir tuşa basmaktan ibaret hale gelir.\n\nİç kabının paslanmaz çelik inner pot versiyonu yapışmaz kaplamaya ihtiyaç duymadan sağlıklı pişirme sağlar. Güvenlik kilidi, aşırı basınç emniyet vanası ve ısı koruma sensörü gibi 10 güvenlik özelliği ile çocuklı evlerde gönül rahatlığıyla kullanılabilir.",
+    "fiyat": 3900.00,
+    "teknik_ozellikler": {
+      "Kapasite": "8 Litre",
+      "Modlar": "14 Farklı Pişirme Programı",
+      "Bağlantı": "Wi-Fi + Uygulama Kontrolü",
+      "Güvenlik": "10 Katmanlı Emniyet Sistemi"
+    }
+  },
+  {
+    "id": 254,
+    "baslik": "FreshBlend Soğuk Pres Katı Sıkacağı",
+    "aciklama": "Standart santrifüjlü sıkacakların aksine ısı ve oksijen üretmeden yavaş dönen vida sistemiyle meyve ve sebzeleri sıkan, böylece vitamin, mineral ve enzim içeriğini maksimumda koruyan soğuk pres sıkacak. Aynı miktarda meyveden yüzde otuz daha fazla meyve suyu çıkarır.\n\nGeniş ağzı havuç, elma, pancar ve yeşil yapraklı sebzeleri (ıspanak, marul) doğramadan bütün olarak verebilmenize imkan tanır. Süt nozulunun değiştirilmesiyle fındık sütü, badem sütü ve soya sütü de yapılabilir.",
+    "fiyat": 4800.00,
+    "teknik_ozellikler": {
+      "Çeviri Hızı": "60 RPM (Soğuk Pres)",
+      "Ağız Genişliği": "82 mm Geniş Besleme",
+      "Meyve Suyu Verimi": "Geleneksele Göre %30 Fazla",
+      "Ekstra": "Fındık Sütü Nozulu ve Pasta Eki Dahil"
+    }
+  },
+  {
+    "id": 255,
+    "baslik": "VacuSeal Pro Vakumlu Gıda Muhafaza Cihazı",
+    "aciklama": "Gıdaların oksijensiz ortamda bozulmasını önleyerek raf ömrünü 3-5 kat artıran otomatik vakum mühürleme cihazı. Haftalık yemek hazırlığı yapanlar için et, sebze ve meyveleri taze tutmanın en ekonomik ve pratik yöntemidir.\n\nSous vide pişirme için mükemmel bir hazırlık aracıdır; vakumlu poşetlerdeki yiyecekler sıcaklık kontrollü su banyosunda eşit şekilde pişer. Yumuşak ve kuru gıda modları, narin meyvelerin ezilmeden vakumlanmasını sağlar. 5 metre rulo poşet, 10 poşet ve bir kap adaptörü dahildir.",
+    "fiyat": 1650.00,
+    "teknik_ozellikler": {
+      "Vakum Gücü": "75 kPa",
+      "Modlar": "Kuru / Islak / Yumuşak Gıda / Sous Vide",
+      "Mühürleme": "30cm Genişliğe Kadar Poşet",
+      "İçerik": "5m Rulo + 10 Poşet + Kap Adaptörü"
+    }
+  },
+  {
+    "id": 256,
+    "baslik": "SteelCut Pro 8 Parça Alman Çeliği Bıçak Seti",
+    "aciklama": "Her yemek türü için özel tasarlanmış, Alman çeliğinden dövülerek üretilmiş sekiz parçalık profesyonel mutfak bıçak seti. Full-tang (saptan uca tek parça) yapı, bıçağın sapın içine kadar uzandığını ve asla kopmayacağını garanti eder.\n\nErgonomik leke tutmaz Pakkawood saplar ıslak elde kayma yapmaz ve dishwasher kullanımına uygundur. Set içindeki bambu bileme taşı, bıçakları fabrika keskinliğinde tutmanızı sağlar. Duvara monte edilen manyetik bıçak şeridi ile birlikte gelir.",
+    "fiyat": 4200.00,
+    "teknik_ozellikler": {
+      "Çelik": "X50CrMoV15 Alman Paslanmaz Çeliği",
+      "Sertlik": "58 HRC",
+      "İçerik": "8 Bıçak + Bileme Taşı + Manyetik Şerit",
+      "Yapım": "Dövme Full-Tang"
+    }
+  },
+  {
+    "id": 257,
+    "baslik": "WokMaster Karbon Çelik Wok Tavası",
+    "aciklama": "Asya mutfağının vazgeçilmezi yüksek ısı pişirme tekniklerini evde uygulamanızı sağlayan, karbon çelikten çekiçle şekillendirilmiş geleneksel wok tava. Karbon çelik; sezonlandırıldıkça doğal yapışmaz yüzey kazanır ve ne kadar çok kullanılırsa o kadar iyileşir.\n\nFlat-bottom (düz taban) tasarımı hem gaz hem de endüktürlü ocak uyumlu olmasını sağlarken, uzun sap ve kısa yardımcı sap ile güvenli taşıma ve çevirme imkanı sunar. İlk kullanım öncesi sezonlama talimatı ve tarif kitapçığı pakette yer alır.",
+    "fiyat": 950.00,
+    "teknik_ozellikler": {
+      "Malzeme": "14 Gauge (2mm) Karbon Çeliği",
+      "Çap": "36 cm",
+      "Ocak Uyumu": "Gaz, Endüktür, Elektrik",
+      "Yapım": "El Çekiçli (Hand-Hammered)"
+    }
+  },
+  {
+    "id": 258,
+    "baslik": "BreadMaker Pro Otomatik Ekmek Yapma Makinesi",
+    "aciklama": "Malzemeleri koyup programı seçtiğinizde siz uyurken hamurunuzu yoğurup mayalayan ve taze ekmeği sabah hazır eden akıllı ekmek makinesi. 15 pişirme programı arasında glütensiz, tam tahıllı, brioche, tatlı ekmek ve hatta marmelat yapımı yer alır.\n\nAyarlanabilir kabuk koyuluğu (açık, orta, koyu) tercihlerinize göre mükemmel sonuç üretir. Zamanlama özelliği ile 13 saat öncesinden programlanabilir. Çıkarılabilir iç kap çelik yapılı olup bulaşık makinesinde yıkanabilir.",
+    "fiyat": 2750.00,
+    "teknik_ozellikler": {
+      "Programlar": "15 Farklı Pişirme Modu",
+      "Ekmek Kapasitesi": "500g, 750g, 1000g Seçenekli",
+      "Zamanlama": "13 Saate Kadar Ön Programlama",
+      "Ekstra": "Glütensiz, Marmelat ve Makarna Hamuru Modu"
+    }
+  },
+  {
+    "id": 259,
+    "baslik": "PastaChef Otomatik Makarna ve Erişte Yapma Makinesi",
+    "aciklama": "Unu, yumurtayı ve suyu içine koyduğunuzda otomatik olarak yoğuran, ileri iter ve seçtiğiniz kalıba göre istediğiniz makarna şeklini sanan akıllı makarna makinesi. Spagetti, fettuccine, penne, lasagne, erişte ve pirinç şekli dahil sekiz kalıp seti ile birlikte gelir.\n\nPirinç unu ile glütensiz makarna, ıspanakla yeşil renkli veya domates püresiyle kırmızı renkli makarna yapılabilir. 250 gram kapasitesi ile 2-3 kişilik bir aile için idealdir.",
+    "fiyat": 3100.00,
+    "teknik_ozellikler": {
+      "Kapasite": "250 gram",
+      "Kalıplar": "8 Farklı Makarna Şekli Dahil",
+      "Pişirme Süresi": "10 Dakikada Taze Makarna",
+      "Özellik": "Glütensiz ve Renkli Makarna Uyumlu"
+    }
+  },
+  {
+    "id": 260,
+    "baslik": "MixMaster 7L Stand Mikser",
+    "aciklama": "Fırıncıların ve hamur işi tutkunlarının vazgeçemeyeceği güçlü motorlu stand mikser. 800W motor ağır maya hamurlarını, çok yoğun cheesecake karışımlarını ve yüzlerce kurabiye hamurunu yıllar boyunca pürüzsüzce karıştırır.\n\nPlaneteer hareket sistemi kaseye sabit olan bıçakların yerine dönerek içeriği kasede her noktaya ulaşmasını sağlar ve hiçbir köşede hamur kalmaz. 12 hız kademesi ile en hassas işlemleri de uygulayabilirsiniz. Çubuk çırpıcı, spiral yoğurma kancası ve flatbeater dahildir.",
+    "fiyat": 4800.00,
+    "teknik_ozellikler": {
+      "Motor": "800W",
+      "Kase Kapasitesi": "7 Litre Paslanmaz Çelik",
+      "Hız": "12 Kademe",
+      "Aksesuarlar": "Çubuk Çırpıcı, Spiral Kanca, Flatbeater"
+    }
+  },
+  {
+    "id": 261,
+    "baslik": "FitPro Profesyonel Ayarlanabilir Dumbbell Seti",
+    "aciklama": "Tek bir tutacakla 2.5 kg'dan 32 kg'a kadar anlık geçiş yapabilen akıllı tasarımlı ayarlanabilir dumbbell. Dönümlü kilit sistemi saniyeler içinde ağırlığı değiştirmenize olanak tanıyarak set değiştirme kaybını ortadan kaldırır ve antrenman temposunu yüksek tutar.\n\nKompakt saklama standıyla birlikte teslim edilir; iki dumbbell ve standı standart bir 45x45 cm köşeye sığar. Yorucu bir antrenmanın ardından terli ve yorgun ellerin kaymasını önleyen pütürlü tutacağı ile güvenli kullanım sağlar.",
+    "fiyat": 6500.00,
+    "teknik_ozellikler": {
+      "Ağırlık Aralığı": "2.5 - 32 kg (15 Kademe)",
+      "Ayar Sistemi": "Döndürmeli Hızlı Kilit",
+      "İçerik": "2 Dumbbell + Saklama Standı",
+      "Malzeme": "Dökme Demir + Kaplama Çelik"
+    }
+  },
+  {
+    "id": 262,
+    "baslik": "HyperGlide Katlanabilir Eliptik Bisiklet",
+    "aciklama": "Dar dairelere ve stüdyo dairelerine göre tasarlanmış, kullanmadığında yarı boyutuna katlanan kompakt eliptik bisiklet. Yatay kayış aktarımı ve 16 direnç kademesi ile hem ısınma yürüyüşünü hem de yüksek yoğunluklu interval antrenmanını aynı cihazda yapabilirsiniz.\n\nEntegre tablet/telefon tutacağı ve Bluetooth hoparlörü ile favori dizi veya müziğinize eşlik ederek antrenmanı eğlenceli hale getirir. Yüksek yük taşıyan jant tipi tekerlek ve manyetik direnç mekanizması kullanım esnasında neredeyse sessiz çalışır.",
+    "fiyat": 7200.00,
+    "teknik_ozellikler": {
+      "Direnç": "16 Manyetik Kademe",
+      "Maksimum Kullanıcı Ağırlığı": "120 kg",
+      "Katlanma": "Kompakt Yükseklik 60 cm'e İner",
+      "Ekstra": "Bluetooth Hoparlör, Tablet Tutucu, Kalp Ritmi Sensörü"
+    }
+  },
+  {
+    "id": 263,
+    "baslik": "PowerPull Pro Asma Bar ve Dips İstasyonu",
+    "aciklama": "Kapı kasasına herhangi bir vida veya delik açmadan kurulan sıkıştırmalı tespit sistemiyle, dakikalar içinde kurulup kaldırılabilen çok fonksiyonlu asma bar. Pull-up (geniş tutuş), chin-up (dar tutuş) ve nötr tutuş dahil altı farklı kavrama pozisyonu sunar.\n\nBir yere yatırıldığında push-up ve dip hareketi için zemin tutucusu işlevi gören L-şekilli tasarımı, tek alışverişte tam bir üst vücut egzersiz istasyonu sağlar. 150 kg taşıma kapasitesiyle çoğu kullanıcı için güvenli ve sağlamdır.",
+    "fiyat": 1250.00,
+    "teknik_ozellikler": {
+      "Tespit": "Vidasız Kapı Sıkıştırmalı",
+      "Kapasite": "150 kg",
+      "Tutuş Pozisyonu": "6 Farklı (Geniş, Dar, Nötr x2, Ters, Dip)",
+      "Kullanım": "Asma Bar + Zemin Push-up + Dip"
+    }
+  },
+  {
+    "id": 264,
+    "baslik": "YogaFlow Ultra Kaymaz Yoga Matı",
+    "aciklama": "Sıcak yoga, güç yogası ve pilates gibi yoğun terleme gerektiren pratikler için özel geliştirilmiş çift katmanlı kaymaz yoga matı. Üst yüzey, ne kadar terli olursa olsun yerden kalkma ve kaymayı önleyen mikro doku su emici doğal kauçuktan üretilmiştir.\n\nAlt yüzey ise zeminde sabitliği sağlayan köpüklü katmandır. 6mm kalınlık eklem baskısını rahatlatacak yastıklama sağlarken denge pozlarında zemin hissini de korur. İkiye katlanabilen ve omuzdan taşınabilen çanta dahildir.",
+    "fiyat": 890.00,
+    "teknik_ozellikler": {
+      "Malzeme": "Doğal Kauçuk Üst + TPE Köpük Alt",
+      "Boyut": "183 x 61 x 0.6 cm",
+      "Kaymaz": "Çift Yönlü Mikro Doku",
+      "Çevre": "Lateks İçermez, Çevre Dostu"
+    }
+  },
+  {
+    "id": 265,
+    "baslik": "SpeedRope Pro Ayarlanabilir Atlama İpi",
+    "aciklama": "Boks antrenörlerinin ve CrossFit sporcularının kullandığı double-under tekniğine uygun, çelik halatlı hız atlama ipi. Bilyeli rulman mekanizması, ipin elle dönmek yerine yataklar üzerinde serbestçe dönmesini sağlar ve hem hız hem de hassas kontrol sunar.\n\nAlüminyum tutacakların uzunluğu, tutacak içi dişli ile kısa veya uzun olarak kolayca ayarlanabilir. Sporcunun boy ve bilek uzunluğuna göre ip boyu da kesilip sabitlenebilir. Aksesuar çantasıyla spor çantasında kaybolmadan taşınır.",
+    "fiyat": 450.00,
+    "teknik_ozellikler": {
+      "İp": "3mm Çelik Halat",
+      "Mekanizma": "Bilyeli Rulman (360 derece)",
+      "Tutacak": "Alüminyum, Ayarlanabilir Uzunluk",
+      "Hedef": "Hız ve Double-Under Antrenmanı"
+    }
+  },
+  {
+    "id": 266,
+    "baslik": "RecoveryPro Vibrasyon Masaj Tabancası",
+    "aciklama": "Yoğun antrenmanların ardından kas toparlanmasını hızlandıran, sporcu kulüpleri ve fizyoterapistlerin tercih ettiği profesyonel vibrasyon masaj aleti. Dakikada 3200 darbeye ulaşan güçlü motoru derin kas dokusuna ulaşarak laktik asit birikimini azaltır.\n\nSes yalıtımlı motor yuvası sayesinde 40-55 dB arasında oldukça sessiz çalışır. Farklı kas gruplarına özel tasarlanmış altı başlık seti dahildir; yuvarlak kafa büyük kaslar, çatal kafa boyun ve omurga için, sivri kafa tetik noktalar içindir. 300 dakikaya kadar pil ömrü sunar.",
+    "fiyat": 2800.00,
+    "teknik_ozellikler": {
+      "Vuruş Hızı": "1200 - 3200 RPM (5 Kademe)",
+      "Amplitüd": "16 mm Derin Doku Nüfuziyeti",
+      "Ses": "40-55 dB",
+      "Pil": "2400 mAh - 300 dakika, 6 Başlık"
+    }
+  },
+  {
+    "id": 267,
+    "baslik": "CompressionPro Akıllı Hava Basınçlı Bacak Masaj Cihazı",
+    "aciklama": "Uçuş, uzun araba yolculukları veya maraton sonrası bacaklarda biriken yorgunluğu ve şişliği gideren hava basınçlı kompresyon masaj cihazı. Diz altından kasık hizasına kadar saran manşon sistemi, dolaşımı canlandırmak için sıralı (peristaltik) baskı uygular.\n\nDört farklı yoğunluk ve üç masaj modunda (dalga, sıkma, karma) kişisel tercihinize göre ayarlanabilen cihaz, 30 dakikalık bir seansın ardından bacakları hafifletilmiş ve dinlenmiş hissettirmektedir. USB-C ile şarj edilebilen taşınabilir pili sayesinde otobüs veya uçakta da kullanılabilir.",
+    "fiyat": 3500.00,
+    "teknik_ozellikler": {
+      "Kapsama Alanı": "Diz Altından Uyluk Hizasına",
+      "Baskı Kademeleri": "4 Yoğunluk Seviyesi",
+      "Modlar": "Dalga / Sıkıştırma / Karma",
+      "Pil": "USB-C Şarjlı, 60 Dakika Kullanım"
+    }
+  },
+  {
+    "id": 268,
+    "baslik": "KidsRun 16\" Çocuk Bisikleti",
+    "aciklama": "5-8 yaş grubu çocukların güvenle sürüş öğreneceği, ayarlanabilir sele ve gidon ile yıllarca kullanılabilecek şekilde tasarlanmış dayanıklı çocuk bisikleti. Hem ön hem arka disk fren sistemi, küçük ellere büyük bir fren gücü sağlar ve duruş mesafesini kısaltır.\n\nAlüminyum çerçeve, çeliğe kıyasla daha hafif ve paslanmaz olması nedeniyle çocukların bisikleti kaldırıp taşımasını kolaylaştırır. Yan tekerlekler dahil olup çocuk dengeyi kazandıktan sonra kolayca çıkarılabilir.",
+    "fiyat": 2200.00,
+    "teknik_ozellikler": {
+      "Tekerlek": "16 inç",
+      "Çerçeve": "Alüminyum Alaşım 6061",
+      "Fren": "Mekanik Disk Fren (Ön + Arka)",
+      "Yaş": "5-8 Yaş"
+    }
+  },
+  {
+    "id": 269,
+    "baslik": "TrekKid 24\" Dağ Bisikleti Genç",
+    "aciklama": "9-14 yaş arası genç sporculara göre ölçeklendirilmiş, gerçek bir dağ bisikletinin tüm özelliklerine sahip performans bisikleti. 21 vitesli Shimano şanzımanı düz yoldan sert patikaya geçişlerde vites değişimini kolaylaştırırken, ön amortisör çatalı sarsıntıyı absorbe eder.\n\nÇift duvarlı alüminyum jantlar hem ağır çocuk ağırlığı altında deforme olmaz hem de iniş-çıkışlarda güçlü bir sürüş hissi verir. Renkli yan şeritlerden oluşan canlı tasarım gençlerin dikkatini çeker.",
+    "fiyat": 3800.00,
+    "teknik_ozellikler": {
+      "Tekerlek": "24 inç",
+      "Vites": "21 Hız Shimano Tourney",
+      "Amortisör": "Ön Teleskopik Çatal (80mm)",
+      "Yaş": "9-14 Yaş"
+    }
+  },
+  {
+    "id": 270,
+    "baslik": "SlimRun Katlanabilir Koşu Bandı",
+    "aciklama": "Standart koşu bantlarının yarısı kalınlığında katlanan, ev kullanımına uygun sessiz motorlu koşu bandı. Uzaktan kumanda, tablet tutucu ve Bluetooth ile spor uygulamalarına (Zwift, Nike Run Club) bağlanma özellikleri sayesinde antrenmanı hem takip eder hem de eğlenceli kılar.\n\nAkıllı hız sensörü; yürüme, koşu veya sprint sırasında ayaklarınızı bandın ortasına veya kenarına götürmenize göre otomatik olarak hızı düzenleyebilir. Elektromanyetik manyetik direnç sistemi sesiz ve titreşimsiz çalışmayı mümkün kılar.",
+    "fiyat": 14500.00,
+    "teknik_ozellikler": {
+      "Hız Aralığı": "1 - 16 km/s",
+      "Motor": "2.5 HP AC Motor",
+      "Katlanma": "Yatay Katlanır (Yükseklik 18 cm)",
+      "Bağlantı": "Bluetooth 5.0, Uygulama Uyumlu"
+    }
+  },
+  {
+    "id": 271,
+    "baslik": "AquaFit Kadın Yüzme Takım Elbisesi",
+    "aciklama": "Açık su yüzücüleri ve yarışmacı havuz sporcuları için tasarlanan, hidrofobik (suyu iten) yüzey kaplamasıyla su direncini minimize eden performans mayo. Chlorine (klor) ve UV ışığına karşı renk bozulmaz kumaşı, havuz suyunun tahrip edici etkilerine yıllarca dayanır.\n\n%95 UPF güneş koruma faktörü ile açık su seanslarında güneşten korur. Çapraz sırt şeritleri omuz hareketini kısıtlamadan destek verir. Büyük beden seçenekleri dahil geniş beden çeşidi mevcuttur.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Malzeme": "%85 Naylon %15 Elastan (Klor Dayanıklı)",
+      "UPF Koruma": "UPF 95+",
+      "Özellik": "Hidrofobik Kaplama, Arkadan Fermuarsız",
+      "Beden": "XS - 4XL"
+    }
+  },
+  {
+    "id": 272,
+    "baslik": "CycleAero Aero Karbon Bisiklet Kaskı",
+    "aciklama": "Tünel testlerinde doğrulanan aerodinamik formu ve düşük ağırlığıyla rekabetçi bisikletçilerin yol performansını artıran karbon destekli yol kaskı. MIPS (Multi-directional Impact Protection System) teknolojisi, çapraz açılı darbelerde beyin üzerindeki rotasyonel kuvveti azaltır.\n\nİçteki kanallardan süzülen hava akışı kask içini serin tutar. Tek dokunuşla sıkıştırılan arka ayar sistemi, başın her şeklinde stabil bir oturma sağlar. UCI onaylı yarış sertifikasına sahiptir.",
+    "fiyat": 3200.00,
+    "teknik_ozellikler": {
+      "Ağırlık": "220 gram",
+      "Güvenlik": "MIPS + EN 1078 + UCI Onaylı",
+      "Havalandırma": "22 Aerobölmeli Kanal Sistemi",
+      "Ayar": "360° Dial-fit Başlık Kilit Sistemi"
+    }
+  },
+  {
+    "id": 273,
+    "baslik": "RunPace Karbon Tabanli Koşu Ayakkabısı",
+    "aciklama": "Elit maraton koşucularının zaman rekorlarını kırdığı karbon fiber plaka teknolojisini günlük sporculara taşıyan yol koşu ayakkabısı. Orta tabandaki karbon fiber plaka, her adımda enerjiyi ileri itmek için kullanır ve koşuyu yüzde dört ila yüzde sekiz daha verimli kılar.\n\nHafif ve reaktif ZoomX köpük orta tabanı, her adımda enerjinin yüzde seksen beşini geri verir. Dayanıklı laflı lastik dış taban ıslak ve kuru asfalt üzerinde uygun tutuş sağlar. Yarı maraton ve maraton mesafeleri için önerilir.",
+    "fiyat": 4500.00,
+    "teknik_ozellikler": {
+      "Plaka": "Tam Uzunluk Karbon Fiber",
+      "Orta Taban": "Reaktif ZoomX Köpük",
+      "Drop": "8mm",
+      "Ağırlık": "220 gram (42 numara)"
+    }
+  },
+  {
+    "id": 274,
+    "baslik": "StretchPro Akıllı Vibrafit Pilates Çemberi",
+    "aciklama": "Dirençli vibrafit çember kalça, uyluk iç ve dış kası ile karın duvarını aynı anda çalıştıran etkili bir pilates aracıdır. Plastik gövde içindeki yay sistemi hem itiş hem çekiş egzersizlerine uyum sağlarken, yumuşatılmış köpük kaplama kolları ve bacakları rahatsız etmez.\n\nQR kod ile erişilebilen 25 adet yönlendirici egzersiz videosu sayesinde satın aldığınız gün itibariyle tam programlı bir antrenman başlatabilirsiniz. Taşıma kolundan asılabilir depo özelliği ile duvarda kaybolmadan saklanır.",
+    "fiyat": 480.00,
+    "teknik_ozellikler": {
+      "Çap": "38 cm",
+      "Direnç": "Orta Yay Direnci (3 Kademe Seçenekli)",
+      "Kaplama": "Yumuşak Köpük Tutacak",
+      "Ekstra": "QR ile 25 Eğitim Videosu Erişimi"
+    }
+  },
+  {
+    "id": 275,
+    "baslik": "SkinCare Pro LED Işık Terapisi Maskesi",
+    "aciklama": "Dermatoloji kliniklerinde uygulanan ışık terapisini evinize taşıyan, 7 farklı LED rengi ile hem anti-aging hem de akne tedavisini destekleyen maske. Kırmızı ışık kollajen üretimini artırırken, mavi ışık akneye neden olan bakterileri yok eder ve sarı ışık cilt tonu eşitsizliğini düzenler.\n\n20 dakikalık seans için tasarlanan otomatik kapanma zamanlayıcısı ile kullanımı kolaylaştırılmıştır. Silikon yüz maskesinin yüzün tüm konturlarına uyum sağlayan esnek yapısı LED'lerin ciltle doğrudan temas etmesini sağlar.",
+    "fiyat": 3800.00,
+    "teknik_ozellikler": {
+      "LED Renkleri": "7 (Kırmızı, Mavi, Sarı, Yeşil, Camgöbeği, Mor, Beyaz)",
+      "Dalga Boyu": "415nm - 850nm",
+      "Seans Süresi": "20 Dakika Otomatik Kapanma",
+      "Sertifika": "FDA Onaylı, Klinik Test Edilmiş"
+    }
+  },
+  {
+    "id": 276,
+    "baslik": "GlowUp Ultrasonik Cilt Temizleme Cihazı",
+    "aciklama": "Saniyede 28.000 titreşim üreten ultrasonik teknoloji ile gözeneklere nüfuz eden ve klasik temizlemede ulaşılamayan siyah nokta ve deri altı kirleri çıkaran cilt bakım cihazı. Doğrusal kazıma modu (scrub) ölü deriler ve yüzey kirini temizlerken, iyonik mod aktif maddeleri cilt derinlerine iletir.\n\nTitanyum kaplama spatül başı hem antibakteriyeldir hem de alerjik reaksiyon oluşturmaz. 5V USB-C ile şarj edilip kablosuz kullanılabilen cihaz, her banyo tezgahına rahatça yerleşir.",
+    "fiyat": 950.00,
+    "teknik_ozellikler": {
+      "Titreşim": "28.000 Hz Ultrasonik",
+      "Modlar": "Peel (Soyma) / Lift / Tighten / Ion+",
+      "Baş Malzemesi": "Tıbbi Titanyum",
+      "Şarj": "USB-C, 90 Dakika Kullanım"
+    }
+  },
+  {
+    "id": 277,
+    "baslik": "HairLux Pro Profesyonel Saç Düzleştirici",
+    "aciklama": "Seramik ve turmalin kaplama yüzeyleriyle saç liftini kapatıp yoğun nem vererek parlaklığı artırırken zarar vermeyen profesyonel saç düzleştirici. Flotasyon plaka sistemi (floating plate) tutam kalınlığına göre kendiliğinden uyum sağlar ve baş derisi yanıklarını önler.\n\n70°C'den 230°C'ye kadar ayarlanabilen hassas ısı kontrolü ile kuru, boyalı ve keratin kaplı saçların her biri en uygun ısıda işlenir. 30 saniyelik hızlı ısınma süresi ile sabah rutinini kısaltır.",
+    "fiyat": 1450.00,
+    "teknik_ozellikler": {
+      "Isı Aralığı": "70°C - 230°C (Dijital Kontrol)",
+      "Plaka": "Seramik + Turmalin İyonik",
+      "Sistem": "Flotasyon Plaka (Öz Uyarlamalı)",
+      "Ekstra": "30 Sn Isınma, Otomatik Kapanma (90 dk)"
+    }
+  },
+  {
+    "id": 278,
+    "baslik": "AquaDent Pro Akıllı Su Bazlı Ağız Duşu",
+    "aciklama": "Diş fırçasının ulaşamadığı diş aralarını, implant kenarlarını ve diş eti ceplerini basınçlı su jeti ile temizleyen profesyonel sınıf ağız duşu. 10 basınç kademesi; nazik diş eti masajından güçlü diş arası temizlemeye kadar her ihtiyacı karşılar.\n\n360 derece dönen başlığı ve dört farklı nozul ucu (standart, ortodontik, diş eti, dil temizleyici) ile her ağız yapısına özel bir temizlik deneyimi sunar. 300 ml su haznesi tek şarjla 60 saniyelik kullanım süresi sağlar ve USB-C ile kablosuz şarj edilir.",
+    "fiyat": 1250.00,
+    "teknik_ozellikler": {
+      "Basınç": "10 Kademe (30 - 110 PSI)",
+      "Su Haznesi": "300 ml",
+      "Nozul": "4 Farklı Tip (Standart, Ortodontik, Diş Eti, Dil)",
+      "Şarj": "USB-C, IPX7 Su Geçirmez"
+    }
+  },
+  {
+    "id": 279,
+    "baslik": "SleepWave Akıllı Uyku Analiz Cihazı",
+    "aciklama": "Yastığın altına veya yanına yerleştirilen sensör bandı sayesinde uyku aşamalarını (REM, derin, hafif), horlamayı, uyku apnesini ve kalp ritmini takip eden giyilmeyen uyku izleme cihazı. Sabah uygulama üzerinden sunulan kapsamlı uyku raporu ile hangi davranışların uyku kalitenizi bozduğunu net olarak gösterir.\n\nAkıllı alarm özelliği ile uyku döngüsünün en hafif evresinde sizi kaldırarak uyandığınızda dinlenmiş ve zinde hissetmenizi sağlar. Gürültü ve ışığın uyku kalitenize etkisini de analiz eder.",
+    "fiyat": 2200.00,
+    "teknik_ozellikler": {
+      "Sensör": "Piezoelektrik Hareket + Akustik",
+      "Takip": "Uyku Aşamaları, Kalp Ritmi, Horlama",
+      "Alarm": "Akıllı Uyku Döngüsü Alarmı",
+      "Bağlantı": "Bluetooth + Uygulama (iOS/Android)"
+    }
+  },
+  {
+    "id": 280,
+    "baslik": "ChairMax Pro Masaj Koltuğu",
+    "aciklama": "Sıfır yerçekimi pozisyonu, otomatik vücut tarama, hava yastığı sıkıştırma ve ısıtma sistemiyle tam vücut masajı sunan premium masaj koltuğu. Omurga hizasını taramak için roller mekanizmasının ilk seans başlangıcında otomatik gerçekleştirdiği kalibrasyon, omurgaya zarar vermeden hedefli masaj sağlar.\n\n4D roller sistemi; derinlik, genişlik, hız ve tempo kontrolünü aynı anda yapabileceği için Shiatsu, İsveç ve hafif dalga masajı gibi farklı stilleri mükemmel biçimde taklit eder. Akıllı uygulama ile özel masaj programları oluşturulabilir.",
+    "fiyat": 28000.00,
+    "teknik_ozellikler": {
+      "Roller": "4D (Derinlik + Hız + Genişlik + Tempo)",
+      "Pozisyon": "Sıfır Yerçekimi (3 Kademe)",
+      "Hava Yastığı": "50 Adet (Omuz, Kol, Bacak, Ayak)",
+      "Isıtma": "Bel ve Baldır Isıtma Bölgesi"
+    }
+  },
+  {
+    "id": 281,
+    "baslik": "EcoWash Enerji Tasarruflu Çamaşır Makinesi",
+    "aciklama": "A+++ enerji sınıfı ile standart makinelere kıyasla yıllık elektrik faturanızdan önemli ölçüde tasarruf etmenizi sağlayan akıllı çamaşır makinesi. AI destekli yük sensörü, konan çamaşır miktarını analiz ederek hem su hem deterjana miktarını otomatik olarak optimize eder.\n\n1600 devir sıkma hızı çamaşırları daha kuru çıkararak çamaşır makinesinde ve kurutucuda geçen toplam süreyi kısaltır. Ekranda görüntülenen anlık tüketim takibi; hangi programın daha az enerji harcadığını öğrenmenizi sağlar.",
+    "fiyat": 18500.00,
+    "teknik_ozellikler": {
+      "Kapasite": "10 kg",
+      "Enerji Sınıfı": "A+++",
+      "Devir": "1600 rpm",
+      "Bağlantı": "Wi-Fi + Uygulama, AI Yük Sensörü"
+    }
+  },
+  {
+    "id": 282,
+    "baslik": "CoolMax Inverter Kurutmalı Buzdolabı",
+    "aciklama": "NoFrost teknolojisi ve inverter kompresörü ile hem dolap içinde donma noktası oluşturmayan hem de enerji tüketimini dinamik olarak düzenleyen A+ enerji sınıfı buzdolabı. Tüm gıdaları farklı ısı ve nem düzeyinde saklayan MultiZone koşullandırma, etlerin, meyve sebzelerin ve süt ürünlerinin raf ömrünü optimize eder.\n\nAkıllı uygulama üzerinden sıcaklık ayarı, kapı açık uyarısı ve enerji tüketim raporu takip edilebilir. Hava filtreleme sistemi sayesinde buzdolabı içindeki kötü koku oluşumu önlenir.",
+    "fiyat": 32000.00,
+    "teknik_ozellikler": {
+      "Toplam Hacim": "580 Litre (Buzdolabı 420 + Dondurucu 160)",
+      "Teknoloji": "NoFrost + Inverter Kompresör",
+      "Enerji": "A+ Enerji Sınıfı",
+      "Bağlantı": "Wi-Fi + Uygulama Kontrolü"
+    }
+  },
+  {
+    "id": 283,
+    "baslik": "TerraceDream Güneş Şemsiyesi (3x3m)",
+    "aciklama": "Güçlü alüminyum direk ve kanat sistemiyle rüzgara dayanıklı yapısıyla bahçe ve teraslarda hem güneşten hem de hafif yağmurdan koruma sağlayan büyük boy bahçe şemsiyesi. Şemsiyeyi katlamak veya açmak için üst kasada yer alan tek elle çalışan krankı çevirmek yeterlidir.\n\nPolyester kumaş, UV-50+ güneş koruma faktörü ve yağmur geçirmez kaplama ile her hava şartında dayanır. Ağırlıklı kare taban dahildir; ek ağırlık için taban boşluğuna taş veya kum doldurulabilir.",
+    "fiyat": 4500.00,
+    "teknik_ozellikler": {
+      "Boyut": "3 x 3 metre",
+      "Malzeme": "Alüminyum Direk + 250g Polyester Kumaş",
+      "UV Koruma": "UPF 50+",
+      "Mekanizma": "Tek Elle Krank Sistemi"
+    }
+  },
+  {
+    "id": 284,
+    "baslik": "GardenPro Otomatik Damlama Sulama Sistemi",
+    "aciklama": "50 bitkiyi aynı anda kendi kendine sulayan, programlanabilir damlama sulama sistemi. Hassas damlama başlıkları suyu doğrudan bitkinin kök bölgesine ileterek yüzde yetmiş daha az su tüketimiyle klasik sulama hurcunun üzerinde sonuç alır.\n\nUygulamadan hava durumu entegrasyonu ile yağmurlu günlerde sulama otomatik olarak ertelenir. Her bitkinin sulama sıklığı ve süresi ayrı ayrı programlanabilir. Kurulum için boru bağlantısı; hortuma takılıp hazır; elektrik gerektirmez.",
+    "fiyat": 2100.00,
+    "teknik_ozellikler": {
+      "Kapasite": "50 Bitkiye Kadar",
+      "Zamanlayıcı": "16 Bağımsız Kanal",
+      "Su Tasarrufu": "Klasik Sulamaya Göre %70",
+      "Bağlantı": "Wi-Fi + Hava Durumu Entegrasyonu"
+    }
+  },
+  {
+    "id": 285,
+    "baslik": "WoodCraft Bambu Bahçe Mobilya Seti (5 Parça)",
+    "aciklama": "Hızla yenilenebilen ve işlenebilir bir malzeme olan bambüdan üretilen, sürdürülebilir ve şık beş parçalı bahçe mobilya seti. Set; bir dikdörtgen masa, iki kolçaklı sandalye ve iki şezlong içerir ve tamamı açık hava kullanımına uygun dış cephe verniğiyle kaplanmıştır.\n\nSandayelerin kolçak ve şezlongun baş kısmı bakımlı pozisyonda sabit tutabilen kilitleme özelliklidir. Bakım gerektirmez; yılda bir kez teak yağı sürmek boşluğunu korumak için yeterlidir.",
+    "fiyat": 7800.00,
+    "teknik_ozellikler": {
+      "İçerik": "1 Masa + 2 Sandalye + 2 Şezlong",
+      "Malzeme": "Sertleştirilmiş Bambu + Dış Vernik",
+      "Masa Boyutu": "120 x 80 cm",
+      "Bakım": "Yılda 1 Kez Teak Yağı Yeterli"
+    }
+  },
+  {
+    "id": 286,
+    "baslik": "PetGuard Akıllı Evcil Hayvan Takip Tasması",
+    "aciklama": "GPS ve LTE destekli bu akıllı yaka, köpeğinizin ya da kedinizin her an nerede olduğunu harita üzerinde saniyeler içinde gösterir. Güvenli alan (geo-fence) çizdiğinizde hayvanınız bu sınırı geçtikten 30 saniye içinde telefona anlık bildirim gelir.\n\nSuya dayanıklı (IP68) kasası, dere geçerken veya yağmurda bile çalışmaya devam eder. Aktivite takip özelliği gün içindeki adım ve kalori verilerini raporlar. Aylık abonelik gerektiren SIM kartı ilk 3 ay ücretsizdir.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Konum": "GPS + LTE Gerçek Zamanlı",
+      "Güvenli Alan": "Sınırsız Geo-Fence Bölgesi",
+      "Pil": "7 Günlük Pil Ömrü",
+      "Su Geçirmezlik": "IP68"
+    }
+  },
+  {
+    "id": 287,
+    "baslik": "PawFeed Otomatik Evcil Hayvan Mama Dispenseri",
+    "aciklama": "Programladığınız saatlerde doğru porsiyonda mama veren, evcil hayvan beslenme düzenini korumaya yardımcı olan akıllı mama dispenseri. Uygulama üzerinden tatil günleri ve farklı günler için farklı porsiyon programları oluşturulabilir.\n\nYüzde doksan dokuz hassasiyet kalibrasyonlu hassas tartı sistemi, her öğünde tam doğru gramaj vermesini sağlar. Dahili kamera ile evcil hayvanınızın yemek yerken fotoğrafını çekebilir ve istediğiniz an video akışı izleyebilirsiniz. 4 litrelik büyük haznesi 30 güne kadar mama depolayabilir.",
+    "fiyat": 2400.00,
+    "teknik_ozellikler": {
+      "Hazne": "4 Litre",
+      "Zamanlama": "Günde 6 Öğüne Kadar Program",
+      "Kamera": "1080p HD, Gece Görüşü",
+      "Bağlantı": "Wi-Fi + Uygulama (iOS/Android)"
+    }
+  },
+  {
+    "id": 288,
+    "baslik": "AquaPet Otomatik Evcil Hayvan Su Çeşmesi",
+    "aciklama": "Pompalı süzme sistemiyle suyu sürekli hareket ettirerek hem temiz tutan hem de evcil hayvanların içme isteğini artıran çeşme tipi su kabı. Aktif kömür ve yüklü iyonik filtresi, klorlu şebeke suyunu içilebilir düzeyde arıtır.\n\n2 litrelik haznesini aydınlatmalı seviye göstergesi su bitmeden uyarır. Sessiz pompa motoru evcil hayvanların uyku saatlerinde bile rahatsız edilmeden çalışır. 304 paslanmaz çelik kase bölümü her hafta bulaşık makinesinde yıkanabilir.",
+    "fiyat": 650.00,
+    "teknik_ozellikler": {
+      "Hazne": "2 Litre",
+      "Filtre": "Aktif Karbon + İyon Değiştirici",
+      "Ses Seviyesi": "< 30 dB",
+      "Malzeme": "BPA-free Tritan + 304 Çelik Kase"
+    }
+  },
+  {
+    "id": 289,
+    "baslik": "PawCam Evcil Hayvan Güvenlik Kamerası",
+    "aciklama": "Siz evde yokken köpeğinizin veya kedinizin ne yaptığını izlemenizi sağlayan, iki yönlü ses ve özel evcil hayvan davranışı tanıma yapay zekasına sahip akıllı kamera. Kamera evcil hayvanı ekranda tanımladığında fotoğraf çekip bildirim gönderir ve geriye dönük olarak davranış istatistikleri oluşturur.\n\nGece görüş modu karanlık ortamda da net görüntü sağlar. Bağlı hoparlör aracılığıyla evcil hayvanınıza seslenebilir veya uygulamadan önceden kaydettiğiniz özel mesajları çaldırabilirsiniz. Yatay 360 derece dönen taban her köşeyi izler.",
+    "fiyat": 1450.00,
+    "teknik_ozellikler": {
+      "Çözünürlük": "2K 1440p",
+      "Görüş Açısı": "130° Geniş Açı + 360° Motor",
+      "Yapay Zeka": "Evcil Hayvan Tanıma ve Davranış Analizi",
+      "İletişim": "Çift Yönlü Ses + Özel Mesaj Oynatma"
+    }
+  },
+  {
+    "id": 290,
+    "baslik": "BookNest Ahşap Dönüşlü Kitaplık",
+    "aciklama": "Hem yer kaplamayan yapısı hem de döner merkezli tasarımı ile 360 derece erişim imkanı sunan şık ahşap kitaplık. Tek elle döndürülebilen merkez ekseni sayesinde istediğiniz kitaba oturduğunuz yerden uzanmadan ulaşabilirsiniz.\n\nMeşe ahşabından üretilen gövdesi doğal ahşap görünümünü korurken yaşa dayanıklı cila kaplama darbe ve çiziklere karşı korur. Raflara yerleştirilen ayarlanabilir dikmeler, farklı yükseklikte kitap, binder veya dekoratif objelere göre raf yüksekliğini değiştirir.",
+    "fiyat": 3600.00,
+    "teknik_ozellikler": {
+      "Malzeme": "Masif Meşe Ahşap + Paslanmaz Çelik Eksen",
+      "Boyut": "120 cm Yükseklik, 70 cm Çap",
+      "Raf Sayısı": "6 Ayarlanabilir Raf",
+      "Kapasite": "Yaklaşık 150-200 Kitap"
+    }
+  },
+  {
+    "id": 291,
+    "baslik": "LuxGlow Dekoratif Şarjlı Masa Lambası",
+    "aciklama": "Kablo olmadan her yere götürülebilen, dokunma hassasiyetli gövdesiyle anında açılıp kapanan ve üç renk sıcaklığında aydınlatma sağlayan şarjlı tasarım masa lambası. Hafif dokunuşla soğuk beyaz, gün ışığı ve sıcak sarı arasında geçiş yapan dokunma dimmer sistemi okuma, çalışma ve romantik ortam arasında kolayca geçiş sağlar.\n\nUSB-C ile şarj edilen 6000 mAh bataryası, orta parlaklıkta yaklaşık 8 saat aydınlatma sunar. Otel ve restoran tasarımlarında yaygın kullanılan alüminyum ve bambu kompozit gövdesi minimalist estetik anlayışıyla uyumludur.",
+    "fiyat": 1250.00,
+    "teknik_ozellikler": {
+      "Renk Sıcaklığı": "2700K / 4000K / 6500K",
+      "Dimmer": "Dokunma Hassasiyetli Kademesiz",
+      "Pil": "6000 mAh USB-C, 8 Saat",
+      "CRI": "Ra 95+ Yüksek Renk Doğruluğu"
+    }
+  },
+  {
+    "id": 292,
+    "baslik": "ArtCanvas 120x80 Ahşap Çerçeveli Sayılarla Boyama Seti",
+    "aciklama": "Sanat deneyimi olmayan yetişkinlerin bile tablo kalitesinde eserler üretmesini sağlayan, numaralı bölümlere göre renklendirilecek büyük boy kanvas boyama seti. 80 renkten oluşan akrilik boya paleti ve üç farklı kalınlıkta fırçayla birlikte gelir.\n\nÖnceden gerilmiş ve yüksek çözünürlüklü görüntü baskılı tuval, boyama adımlarını daha net görmenizi sağlar. Tamamlanan eser çerçevesiyle birlikte duvara asılmaya hazır haldedir. Her sette farklı zorluk seviyesinde (başlangıç, orta, ileri) olduğu için ailede herkes kendi seviyesine uygun seti seçebilir.",
+    "fiyat": 580.00,
+    "teknik_ozellikler": {
+      "Boyut": "120 x 80 cm",
+      "İçerik": "80 Renk Akrilik Boya + 3 Fırça + Çerçeveli Kanvas",
+      "Zorluk": "Başlangıç / Orta / İleri Seçenek",
+      "Konu": "Manzara, Hayvan, Soyut Seçenek"
+    }
+  },
+  {
+    "id": 293,
+    "baslik": "MindFlow 1000 Parça Ahşap Yapboz",
+    "aciklama": "Dijital ekranların geçici dinlenmesi ve zihinsel odaklanmayı yeniden kazanmak için tasarlanmış, hayvan, şehir ve sanat eseri temalarından oluşan 1000 parçalık baskı kalitesi yüksek ahşap yapboz. Ahşap parçalar karton alternatiflere göre daha uzun ömürlü ve tekrar tekrar birleştirilebilir.\n\nParçalar, gökkuşağı renklerine göre sınıflandırılmış renkli torbacıklara ayrılarak teslim edilir; böylece başlarken bitmeden arama yapılmaz. Tamamlanmış tabloyu çerçeveletmek isteyenler için 1000 parçalık yapboz tutkalı sete ek olarak temin edilebilir.",
+    "fiyat": 380.00,
+    "teknik_ozellikler": {
+      "Parça Sayısı": "1000 Adet",
+      "Malzeme": "2mm Kalın Leke Tutmaz Ahşap",
+      "Tamamlanmış Boyut": "75 x 50 cm",
+      "Renk Sınıflandırma": "Renkli Poşetlerde Gruplanmış"
+    }
+  },
+  {
+    "id": 294,
+    "baslik": "ChessElite El Oyması Ahşap Satranç Takımı",
+    "aciklama": "Hintli ustalar tarafından rosewood ve şimşir ağacından el oymasıyla üretilen, koleksiyonluk değerinde Staunton formatı satranç takımı. Her taş belirtilen standart ağırlık aralığına uygun olarak kurşun dolgulu olup masada kayması önlenmiştir.\n\nBeraberinde gelen katlanır ceviz ahşabı satranç tahtasının karelerinde deri kaplama yüzey, taşların masaya sürtünme sesini ortadan kaldırır. Taşlar takımla uyumlu ahşap saklama kutusunda muhafaza edilir.",
+    "fiyat": 2800.00,
+    "teknik_ozellikler": {
+      "Malzeme": "Rosewood & Şimşir El Oymacılığı",
+      "Format": "Staunton Standard (Şah 10 cm)",
+      "Tahta": "50 x 50 cm Katlanır Ceviz + Deri",
+      "Ekstra": "Ahşap Saklama Kutusu Dahil"
+    }
+  },
+  {
+    "id": 295,
+    "baslik": "DigiArt XL Grafik Tablet ve Kalem Seti",
+    "aciklama": "Dijital illüstrasyon, fotoğraf rötuşu ve not alma için tasarlanmış, 10 x 6 inç aktif çizim yüzeyli grafik tablet. 8192 basınç kademesine sahip pil gerektirmeyen kalemi, gerçek fırça ve kalem gibi farklı baskı tonları arasında geçiş yapar.\n\nEkrana bağlanan model; tabletlerin birçok köşesine yerleştirilen özelleştirilebilir kısayol tuşları ile Photoshop, Illustrator ve Clip Studio Paint gibi uygulamalarla birlikte kullanıldığında iş akışını önemli ölçüde hızlandırır. Windows, macOS ve Android'e USB-C ve Bluetooth ile bağlanır.",
+    "fiyat": 3200.00,
+    "teknik_ozellikler": {
+      "Aktif Alan": "10 x 6 inç",
+      "Kalem Basınç": "8192 Kademe",
+      "Bağlantı": "USB-C + Bluetooth",
+      "Uyumluluk": "Windows / macOS / Android"
+    }
+  },
+  {
+    "id": 296,
+    "baslik": "VinylSpin Pro Turntable Pikap",
+    "aciklama": "Analog müziğin sıcak sesini modern konforuyla yaşatmak isteyen vinyl tutkunları için tasarlanmış, Bluetooth çıkışlı ve dahili fono ön yükselticili pikap. S şeklindeki alüminyum kolunun doğrusal izleme açısı, müzik kayıtlarının başlangıç tasarımına uygun yorumlanmasını sağlar.\n\nSürükleme motorlu (belt-drive) sistemi; doğrudan motorun titreşimini plakalara iletmez; bu sayede düşük titreşimli temiz ses üretir. Entegre USB çıkışı ile vinyl koleksiyonunuzu dijital formata aktarabilirsiniz.",
+    "fiyat": 4500.00,
+    "teknik_ozellikler": {
+      "Motor": "Belt-Drive (Kayış Tahrikli)",
+      "Hız": "33 1/3 ve 45 RPM",
+      "Çıkış": "RCA + Bluetooth 5.0 + USB Kayıt",
+      "Kol": "Alüminyum S-Tipi, Ön Yükselteç Dahil"
+    }
+  },
+  {
+    "id": 297,
+    "baslik": "CineMini Akıllı Mini Projektör",
+    "aciklama": "Cebinize sığacak boyutlara rağmen 120 inç ekrana kadar görüntü yansıtabilen, Android 11 işletim sistemi ve yerleşik Dolby ses sistemiyle tam bir akıllı sinemaya dönüşen mini projektör. 1080p Full HD çözünürlüğü ve 700 lümen parlaklığı, loş ışıkta mükemmel, karanlık odada sinema salonu kalitesinde görüntü sunar.\n\nNetflix, YouTube ve Prime Video dahil 5.000'den fazla uygulamayı doğrudan projektörde çalıştırabilirsiniz. Konferans ve sınıf kullanımı için kablosuz ekran yansıtma (Miracast, AirPlay) desteği de mevcuttur.",
+    "fiyat": 5800.00,
+    "teknik_ozellikler": {
+      "Çözünürlük": "1080p Full HD",
+      "Parlaklık": "700 ANSI Lümen",
+      "İşletim Sistemi": "Android 11, Google Play",
+      "Ekran Boyutu": "40\" - 120\" Projektif Alan"
+    }
+  },
+  {
+    "id": 298,
+    "baslik": "HomeGrow Kapalı Alan Bitki Yetiştirme Kiti",
+    "aciklama": "Doğal güneş ışığı olmadan mutfak tezgahınızda salata, fesleğen, nane, roka ve çeri domates yetiştirmenizi sağlayan tam donanımlı hidroponik bitki yetiştirme kiti. Spektrum optimize edilmiş LED paneli bitkinin her büyüme aşamasına uygun kırmızı ve mavi ışığı otomatik olarak ayarlar.\n\n16 bitkiyi aynı anda besleyen pompalı su dolaşım sistemi, köklerin her zaman besin çözeltisine ulaşmasını sağlar. Su seviyesi sensörü hazne doldurmak gerektiğinde uygulama üzerinden bildirim gönderir. İlk hasat genellikle dört ila altı haftada gerçekleşir.",
+    "fiyat": 2900.00,
+    "teknik_ozellikler": {
+      "Kapasite": "16 Bitki",
+      "Işık": "Full Spectrum LED (Kırmızı + Mavi + Beyaz)",
+      "Sulama": "Otomatik Pompalı Hidroponik Sistem",
+      "Kontrol": "Uygulama Bağlantılı, Su Sensörü"
+    }
+  },
+  {
+    "id": 299,
+    "baslik": "KompostMaster Elektrikli Mutfak Kompost Makinesi",
+    "aciklama": "Meyve kabuklarını, sebze artıklarını, kahve telvesini ve hatta küçük kemikleri 4-8 saatte kokusuz, kullanıma hazır gübre toprağına dönüştüren kompakt elektrikli kompost makinesi. Aktif karbon filtresi sayesinde cihaz çalışırken mutfakta hiç koku oluşmaz.\n\nÜretilen kompost; çiçek saksıları, bahçe yatakları veya balkon sebze kasaları için ekstra mineral alımı olmaksızın yeterli besin içeriğine sahiptir. 2 litrelik haznesinin kapasitesi ortalama bir ailenin günlük organik atığını fazlasıyla karşılar.",
+    "fiyat": 5200.00,
+    "teknik_ozellikler": {
+      "Kapasite": "2 Litre",
+      "Dönüşüm Süresi": "4 - 8 Saat",
+      "Gürültü": "< 40 dB",
+      "Filtre": "Aktif Karbon Koku Filtresi"
+    }
+  },
+  {
+    "id": 300,
+    "baslik": "SolarPath Güneş Enerjili Bahçe Aydınlatma Seti (12'li)",
+    "aciklama": "Toprak kazı veya elektrik tesisatı gerektirmeden bahçe yollarına ve çiçek yataklarına yerleştirilen, gündüz güneş ile dolup geceyi otomatik aydınlatan paslanmaz çelik bahçe aydınlatma seti. Her armatür kendi güneş paneli ve bataryasına sahip olduğu için birbirinden bağımsız çalışır.\n\nIPX6 yağmur ve toz geçirmez standı ile her mevsim açık havada kullanılabilir. Sıcak beyaz ton, bahçe atmosferini romantik ve sıcak bir görünüme bürür. Çimlere veya toprak yüzeylere elle bastırılarak anında kurulum tamamlanır.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "İçerik": "12 Adet Güneş Enerjili Armatür",
+      "Malzeme": "Paslanmaz Çelik + ABS",
+      "Aydınlatma": "Gün Batımında Otomatik Açma/Sabah Kapanma",
+      "Su Geçirmezlik": "IPX6"
+    }
+  },
+  {
+    "id": 301,
+    "baslik": "WaterPure Pro Tezgahaltı Su Arıtma Cihazı",
+    "aciklama": "5 aşamalı filtre sistemi (mekanik, aktif karbon, ters osmoz, mineralizasyon, UV sterilizasyon) ile şebeke suyundaki klorun, ağır metallerin, nitratlerin ve bakterilerin tamamını gidererek içmeye hazır su üreten tezgahaltı su arıtma cihazı. Alkali ve mineral takviye özelliği sayesinde suya sağlıklı mineral oranı ekler.\n\nAkıllı filtre ömrü takibi, her filtrenin değişim vaktini ekranda ve uygulamada bildirir. Tankız anlık üretim sistemi sayesinde hazne suyu beklemeye gerek kalmadan en taze içme suyunu verir.",
+    "fiyat": 4800.00,
+    "teknik_ozellikler": {
+      "Filtre": "5 Aşama (Mekanik + Karbon + RO + Mineral + UV)",
+      "Üretim": "Tankless Anlık (400 GPD)",
+      "pH": "Alkali İyonizasyon 7.5-9.0 Arası",
+      "Bağlantı": "Wi-Fi + Filtre Ömrü Uygulaması"
+    }
+  },
+  {
+    "id": 302,
+    "baslik": "StainMaster Pro Buhar Temizleme Makinesi",
+    "aciklama": "150°C üzeri kuru buharla kimyasal deterjan kullanmadan mutfak, banyo, döşeme ve araç içini hijyenik temizleyen çok amaçlı buhar temizleyici. Yüksek sıcaklıktaki kuru buhar bakterileri, virüsleri ve akarları yüzde doksan dokuz oranında öldürür.\n\nKitinde yer alan 12 farklı başlık ve nozul ile fayans derz temizliğinden buzdolabı raflarına, kanepe döşemeden araba koltuklarına kadar yüzlerce temizlik görevi üstlenir. 1.5 litrelik su haznesi 45 dakikaya kadar kesintisiz buhar üretir.",
+    "fiyat": 3200.00,
+    "teknik_ozellikler": {
+      "Sıcaklık": "150°C Kuru Buhar",
+      "Basınç": "4 Bar",
+      "Hazne": "1.5 Litre - 45 Dakika",
+      "Kit": "12 Farklı Başlık ve Bağlantı Parçası"
+    }
+  },
+  {
+    "id": 303,
+    "baslik": "EduBot Çocuklar İçin Kodlama Robotu",
+    "aciklama": "6-14 yaş arası çocukların algoritma ve kodlama mantığını oyun oynayarak öğrenmesini sağlayan, renk sensörlü ve sesli geri bildirim veren programlanabilir eğitim robotu. Fiziksel blok kartlarla sürükle bırak programlama, QR kod programlama ve metin tabanlı Python programlama olmak üç kademeli öğrenme yolu sunar.\n\n60'tan fazla hazır görev ve serbestçe keşfedilebilen sandbox modu ile hem yapılandırılmış dersler hem de yaratıcı keşif desteklenir. Şarj istasyonuna dönme özelliği pil bittiğinde robotu otomatik olarak şarj noktasına yönlendirir.",
+    "fiyat": 2800.00,
+    "teknik_ozellikler": {
+      "Programlama": "Blok / QR / Python (3 Kademe)",
+      "Sensörler": "Renk, Uzaklık, Çizgi Takip, Dokunma",
+      "Pil": "200 Dakika, Otomatik Docking",
+      "Yaş": "6-14 Yaş, 60+ Görev"
+    }
+  },
+  {
+    "id": 304,
+    "baslik": "MicroScope Pro 1200x Dijital Mikroskop",
+    "aciklama": "USB bağlantılı ve LCD ekranlı bu dijital mikroskop, bilim meraklısı çocuklar ve hobiciler için profesyonellerin kullandığı standartlara yakın büyütme kapasitesi sunmaktadır. 1200x optik büyütme ile kar tanelerinden böcek bacaklarına, para üzerindeki detaylara kadar göze görünmeyen dünyayı keşfeder.\n\nDahili kamerası anlık fotoğraf ve video çekerek PC'ye veya dahili SD karta kaydedebilir. LED aydınlatma yoğunluğu hassas şekilde ayarlanabilir ve örneklerin alttan aydınlatılması (transilyuminasyon) için de ayrı bir LED grubu mevcuttur.",
+    "fiyat": 1450.00,
+    "teknik_ozellikler": {
+      "Büyütme": "40x - 1200x",
+      "Görüntü": "12MP Dijital Kamera + 4.3\" LCD",
+      "Bağlantı": "USB + MicroSD",
+      "Aydınlatma": "8 LED Üst + 4 LED Alt (Transmisyon)"
+    }
+  },
+  {
+    "id": 305,
+    "baslik": "ScienceBox Çocuk Kimya Deney Seti (50 Deney)",
+    "aciklama": "Volkan patlaması, pH indikatörü, kristal büyütme ve manyetik akışkan yapımı gibi 50 farklı güvenli bilim deneyi içeren, merak dürtüsünü besleyen kapsamlı çocuk kimya seti. Tüm kimyasallar çocuk dostu konsantrasyonlarda, renk kodlu ve etiketlenmiş olarak ayrı kaplara yerleştirilmiştir.\n\nAdım adım görselli deney kılavuzu, deneyin arkasındaki bilimi açıklayan bilgi notları içerir. Yeniden kullanılabilir deney kapları ve malzemeleri ile setin tamamlanmasının ardından da kendi deneylerini tasarlama imkânı sunar.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Deney Sayısı": "50 Farklı Bilim Deneyi",
+      "Yaş": "8 - 14 Yaş",
+      "Güvenlik": "CE Onaylı, Çocuk Dostu Formüller",
+      "Kılavuz": "Renkli Görsel Adım Adım Deney Kitabı"
+    }
+  },
+  {
+    "id": 306,
+    "baslik": "ArduinoKit Plus Elektronik Öğrenme Seti",
+    "aciklama": "Arduino Uno R4 geliştirme kartı ve 200'den fazla bileşenle (LED, motor, sensör, ekran, buton) eksiksiz bir elektronik proje geliştirme kiti. Başlangıç seviyesinden ileri seviyeye uzanan 50 adet proje kılavuzu ile trafik lambasından WiFi'li hava istasyonuna kadar geniş bir proje yelpazesi sunulur.\n\nQR kod ile erişilen online video eğitim kütüphanesi her projeyi görsel olarak destekler. Kiti satın alanlar için özel Discord topluluğu üyeliği verilerek sorular anında yanıtlanır.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Kart": "Arduino Uno R4 WiFi",
+      "Bileşen": "200+ Parça (Sensör, Modül, Aksesuarlar)",
+      "Proje": "50 Aşamalı Proje Rehberi",
+      "Destek": "Video Eğitim + Topluluk Discord"
+    }
+  },
+  {
+    "id": 307,
+    "baslik": "OrigamiMaster 200 Yaprak Japon Kağıt Seti",
+    "aciklama": "Japonya'dan ithal edilen özgün origami kağıdının tüm özelliklerini taşıyan, her renkten ve desenden örnekler barındıran 200 yapraklık premium origami seti. Geleneksel washi (Japon el yapımı kağıt) dokunumundan esinlenen ipeksi yüzey, katlamalar esnasında yırtılmayı ve buruşmayı önler.\n\nSet içindeki 80 sayfalık katlamalı kitap, temel şekillerden ileri düzey üç boyutlu modüler origami figürlerine kadar adım adım anlatır. Kelebek, ejderha ve Yoda dahil 40 farklı figür tarifi mevcuttur.",
+    "fiyat": 350.00,
+    "teknik_ozellikler": {
+      "Yaprak Sayısı": "200 Adet (30+ Renk ve Desen)",
+      "Boyutlar": "15 x 15 cm ve 20 x 20 cm Karışık",
+      "Kitap": "80 Sayfa 40 Figür Katlama Rehberi",
+      "Malzeme": "Asit İçermez Kağıt"
+    }
+  },
+  {
+    "id": 308,
+    "baslik": "ThreadArt Nakış Başlangıç Seti",
+    "aciklama": "Nakış sanatına ilk adımı atmak isteyenler için eksiksiz malzeme ve öğretici içerik içeren başlangıç seti. 30 renk DMC iplik, 10 adet farklı boyutta nakış çemberi, saydam aktarma kağıdı ve özel nakış iğne seti bir arada sunulur.\n\nQR kod ile erişilebilen 20 video dersi temel dikiş tekniklerini (düz dikiş, saten dikiş, Fransız knot, zincir dikiş) animasyonlu olarak anlatır. Başlangıç seviyesine uygun 5 şablon tasarımı dahildir ve her tamamlanan şablon hediye kutusuna konulabilecek seviyede estetiktir.",
+    "fiyat": 420.00,
+    "teknik_ozellikler": {
+      "İçerik": "30 Renk İplik + 10 Çember + 5 Şablon",
+      "Öğretici": "20 Video Ders (QR Kod Erişim)",
+      "İğne": "15'li Çeşit Nakış İğnesi Seti",
+      "Seviye": "Başlangıç (7 yaş üstü)"
+    }
+  },
+  {
+    "id": 309,
+    "baslik": "ModelBuild 1:24 Ölçek Ahşap Model Otomobil Kiti",
+    "aciklama": "Gerçek araba tasarımcılarının teknik çizimlerine dayanılarak hazırlanan, 200'den fazla lazer kesilmiş ahşap parçadan oluşan, tamamlanmış görünümüyle koleksiyonluk değer taşıyan model otomobil kiti. Tüm parçalar kesimleri yapılmış halde gelir; yapıştırma ve boyama dışında ek el aleti gerektirmez.\n\nFarklı ahşap türleri (meşe, huş, kiraz) parçanın simülasyon rengi olarak seçilmiştir; boyama yapılmasa bile gerçekçi bir görünüm elde edilir. Tamamlanan model 360 derece dönen tekerler ve açılan kapılar ile fonksiyoneldir.",
+    "fiyat": 850.00,
+    "teknik_ozellikler": {
+      "Ölçek": "1:24",
+      "Parça": "200+ Lazer Kesim Ahşap",
+      "Boyut": "Tamamlanmış 18 cm",
+      "Özellik": "Döner Tekerlek, Açılan Kapı"
+    }
+  },
+  {
+    "id": 310,
+    "baslik": "PocketStar 90mm Teleskop Seti",
+    "aciklama": "Satürn'ün halkalarını, Jüpiter'in bantlarını ve Ay'ın krakerlerini görebileceğiniz kompakt 90mm açıklıklı refraktör teleskop seti. Alüminyum çubuklu hafif tripodu, şehir balkonlarında ve karanlık doğa alanlarında eşit kolaylıkla kurulup kullanılabilir.\n\nİki farklı oküler (10mm ve 25mm) ile hem geniş açılı derin gökyüzü gözlemi hem de gezegenler üzerinde yüksek büyütme yapılabilir. Set içindeki akıllı telefon adaptörü, teleskop görüntüsünü doğrudan telefon kamerasına ileterek astrophotography (astronomi fotoğrafçılığı) imkânı sunar.",
+    "fiyat": 2400.00,
+    "teknik_ozellikler": {
+      "Açıklık": "90 mm",
+      "Odak Uzunluğu": "900 mm (f/10)",
+      "Oküler": "10mm + 25mm (2 Adet)",
+      "Ekstra": "Barlows 2x + Telefon Adaptörü + Tripod"
+    }
+  },
+  {
+    "id": 311,
+    "baslik": "FlyBoard Elektrikli Kaykay (E-Skateboard)",
+    "aciklama": "Uzaktan kumanda veya vücut ağırlığı transferi ile kontrol edilen, şehir içi kısa mesafe ulaşım için tasarlanmış çift motorlu elektrikli kaykay. Geniş bambu ve karbon fiber destekli destek levhası, tümsekler ve rampalar karşısında esnekliğini korur ve sürüşü yumuşatır.\n\nRegeneratif frenleme sistemi her yavaşlamada enerjiyi bataryaya geri yükler ve menzili artırır. 4 farklı sürüş modu (yeni başlayan, standart, sport, özel) sürücünün deneyim düzeyine uygun gaz ve fren tepkisi sağlar.",
+    "fiyat": 8900.00,
+    "teknik_ozellikler": {
+      "Motor": "Çift 500W Hub Motor",
+      "Maksimum Hız": "38 km/s",
+      "Menzil": "30 km",
+      "Şarj": "2 Saatte Tam Şarj"
+    }
+  },
+  {
+    "id": 312,
+    "baslik": "GlideX Elektrikli Tek Tekerlekli Skuter (Unicycle)",
+    "aciklama": "Denge platformu olarak çalışan, öğrenmesi düşünüldüğünden kolay olan ve öğrenildiğinde şehrin her köşesinde yürümeden hızlı hareket etmeyi sağlayan elektrikli tek tekerlekli scooter. Gömülü jiroskoplar ve ivme ölçerler vücudun öne-geri eğilimini anlık olarak yorumlayarak hız ve yavaşlamayı otomatik kontrol eder.\n\nSelf-balancing sistemi sayesinde düz yüzey ve rampalarda maksimum 25° eğime kadar stabil sürüş imkanı sağlar. Taşıma sapı ve katlanabilir pedal tasarımı metro veya ofiste konveyör gibi taşınmasını kolaylaştırır.",
+    "fiyat": 11500.00,
+    "teknik_ozellikler": {
+      "Motor": "2000W",
+      "Maksimum Hız": "40 km/s",
+      "Menzil": "70 km",
+      "Tırmanma Açısı": "25°"
+    }
+  },
+  {
+    "id": 313,
+    "baslik": "UrbanRide Pro Elektrikli Scooter",
+    "aciklama": "Katlanabilir alüminyum çerçevesiyle metroya ve ofis asansörüne giren, şehir içi son kilometre ulaşımını çözen dengeli ve sağlam elektrikli scooter. Çift fren sistemi (ön elektronik + arka diske fren) yüksek hızlarda güvenli ve kısa mesafeli duruş imkanı verir.\n\nEşik geçmek, kaldırım çıkmak ve iniş rampalarında sarsıntıyı emen ön-arka amortisör sistemi ve 10 inç hava dolu lastikler konforlu bir sürüş sağlar. 500W motor 15° eğimleri rahatlıkla tırmanır.",
+    "fiyat": 9500.00,
+    "teknik_ozellikler": {
+      "Motor": "500W (800W Tepe)",
+      "Maksimum Hız": "35 km/s",
+      "Menzil": "45 km",
+      "Fren": "Elektronik + Disk Hibrit Frenleme"
+    }
+  },
+  {
+    "id": 314,
+    "baslik": "AquaSpeed Açık Su Yüzme Sörf Tahtası",
+    "aciklama": "Stand up paddleboard (SUP) olarak deniz, göl ve nehirde hem yüzerek hem de paddleboard yaparak kullanılabilen çok amaçlı şişme su tahtası. 15 PSI yüksek basınçlı hava ile şişen katmanlı PVC yapısı, geleneksel köpük tahtaların sertliğine ulaşır ama katlandığında bir sırt çantasına sığar.\n\nKaymaz elmas dokusu tüm yüzeyi kaplar ve ıslak ayakta güvenli duruş sağlar. Açılır kargo ağı öndeki suç içecek, kamera ve güneş kremini güvende tutar. Başlangıç ve orta seviye için idealdir.",
+    "fiyat": 5600.00,
+    "teknik_ozellikler": {
+      "Boyut": "305 x 76 x 15 cm",
+      "Şişirme Basıncı": "15 PSI",
+      "Taşıma Kapasitesi": "120 kg",
+      "Ekstra": "Pompa, Paddle, Fin, Sırt Çantası Dahil"
+    }
+  },
+  {
+    "id": 315,
+    "baslik": "FreeFall Dalış Şnorkel Seti",
+    "aciklama": "Sualtı dünyasını ilk kez keşfetmek isteyenlerden hafif dalışçılara kadar her seviyeye hitap eden, tam yüz maskesi tasarımlı şnorkel seti. 180 derece panoramik görüş alanı sağlayan cam yüzlü tam yüz maskesi, burun ve ağzı ayrı ayrı kapatmadan doğal nefes alıp vermeye olanak tanır.\n\nDry-top (kuru kapak) mekanizmalı şnorkel, dalışta suya girilse bile hortuma su dolmaz. Anti-buğu iç kaplama, maskenin nem nedeniyle buğulanmasını önler. Silikon ara yüzü farklı yüz yapılarına esnek uyum sağlar.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Görüş": "180° Panoramik Tam Yüz Maskesi",
+      "Şnorkel": "Dry-Top Su Engelleme Valfi",
+      "Malzeme": "Temperli Cam + Gıda Sınıfı Silikon",
+      "Ekstra": "Palet ve File Taşıma Çantası Dahil"
+    }
+  },
+  {
+    "id": 316,
+    "baslik": "MobilPhoto 3-eksenli Gimbal Stabilizatör",
+    "aciklama": "Cep telefonu kamerasını profesyonel kamera jib'ine dönüştüren, hareket ederken çekilen videoları tüm sarsıntılardan arındıran elektronik gimbal. Yürürken, koşarken, araçta veya teknede çekim yapılırken üç eksenli motor sistemi kamerayı yatay düzlemde sabit tutar.\n\nAkıllı takip (subject tracking) modu ile yüz veya nesne sahnede nereye giderse gitsin otomatik olarak izler ve çerçevede tutar. Tripod modu'nda timelapse ve hyperlapse çekimleri saatler boyunca güvenli şekilde yapılabilir.",
+    "fiyat": 2200.00,
+    "teknik_ozellikler": {
+      "Eksen": "3 Eksenli Fırçasız Motor",
+      "Uyumluluk": "180g'a Kadar Tüm Akıllı Telefonlar",
+      "Pil": "12 saat",
+      "Özellik": "Akıllı Takip, Timelapse, Panorama Modu"
+    }
+  },
+  {
+    "id": 317,
+    "baslik": "TrailCam Pro Gece Görüşlü Orman Kamerası",
+    "aciklama": "Harekete duyarlı PIR sensörü sayesinde orman sakinlerini ve yabani hayvanları 0.2 saniye içinde yakalayan, hem gündüz renkli hem de gece siyah-beyaz görüntü sunan av/doğa kamerası. 40 adet kızılötesi LED'i tamamen sessiz ve görünmez bir şekilde loş ortamda bile net fotoğraf çeker.\n\n4G LTE SIM kartı takıldığında fotoğraflar anında telefonunuza iletilir ve cihazın bulunduğu yere gitme zorunluluğu ortadan kalkar. Su geçirmez IP66 kasası ağır yağmur ve kar altında yıllarca sorunsuz çalışır.",
+    "fiyat": 3200.00,
+    "teknik_ozellikler": {
+      "Çözünürlük": "32MP Fotoğraf / 4K Video",
+      "Tepki Süresi": "0.2 Saniye",
+      "Gece Görüşü": "40 Kızılötesi LED, 25 Metre",
+      "İletişim": "4G LTE + Wi-Fi"
+    }
+  },
+  {
+    "id": 318,
+    "baslik": "FishFinder Pro Sualtı Sonar Olta Balık Bulucu",
+    "aciklama": "Oltanın ucuna takılan veya kayık kenarından suya sarkıtılan sonar kafasıyla balıkların derinlik ve yoğunluk haritasını telefonunuza ileten kablosuz balık bulucu. 90 derecelik sonar koni açısı geniş bir alanı aynı anda tarayarak balıkları, su altı yapılarını ve zemin profilini gösterir.\n\nBluetooth aracılığıyla telefonla bağlanan uygulama, sualtı haritasını gerçek zamanlı oluşturur ve bir sonraki seferde aynı yere gitmenize imkan tanıyan GPS konum etiketlemesi yapar. IPX8 su geçirmez olduğu için yanlışlıkla suya düşürülse bile kaybolmaz.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Sonar": "CHIRP Sonar, 90° Koni",
+      "Derinlik": "75 Metreye Kadar",
+      "Bağlantı": "Bluetooth 5.0",
+      "Ekstra": "GPS Konum Kayıt, IPX8"
+    }
+  },
+  {
+    "id": 319,
+    "baslik": "PaddlePro Karbon Fiber Kano Küreği",
+    "aciklama": "Açık su turlarından nehir kayak yarışlarına kadar her disipline uyum sağlayan, üç parçaya ayrılıp sırt çantasına giren karbon fiber kano küreği. Karbon fiber yapı, alüminyum alternatiflerin üçte bir ağırlığında olmakla birlikte birkaç kat daha yüksek rijitlik ve güç iletimi sağlar.\n\nAyarlanabilir bıçak açısı (feather angle) rüzgar direncini azaltmak için 0 ila 60 derece arasında kilitlenebilir. Her iki tarafın ayrı ayrı sökülüp değiştirilmesi, hem sağ hem sol el dominant sürücülere uygundur.",
+    "fiyat": 3400.00,
+    "teknik_ozellikler": {
+      "Malzeme": "%100 Karbon Fiber Bıçak ve Gövde",
+      "Ağırlık": "680 gram",
+      "Uzunluk Ayarı": "210 - 240 cm",
+      "Bıçak Açısı": "0° - 60° Kilit Sistemi"
+    }
+  },
+  {
+    "id": 320,
+    "baslik": "SnoGlide Karbon Kayak Sopası Çifti",
+    "aciklama": "Elit kayakçıların tercih ettiği yüksek modüllü karbon fiber gövdesiyle stanleylerden ve alaşımlı alüminyumdan hafif olan ama darbelere dayanıklı premium kayak sopası. Ergonomik kork tutacağı ıslak eldivende bile kaymasız kavrama sağlarken, bilek kayışının ayarı eldivensiz de tek elle yapılabilir.\n\nKarşı kuvveti toprağa ileten sert plastik taban dayanağı (disc) ve bataryalı tungsten uç, hem pistlerde hem de off-piste (pist dışı) kullanım için uygundur. Farklı kullanıcı boylarına göre 10 cm artımlarla üretilen boyut seçenekleri mevcuttur.",
+    "fiyat": 1250.00,
+    "teknik_ozellikler": {
+      "Malzeme": "Yüksek Modüllü Karbon Fiber",
+      "Ağırlık": "Çift 260 gram",
+      "Tutacak": "Kork + Pompaj Bilek Kayışı",
+      "Uç": "Tungsten Karbür Kar Basanı"
+    }
+  },
+  {
+    "id": 321,
+    "baslik": "ClimbPro Tırmanış Kaskı",
+    "aciklama": "Bouldering'den spor tırmanışına, via ferrata güzergahlarından yüksek dağcılığa kadar her disiplinde standartları karşılayan sertifikalı tırmanış kaskı. Üst ve yan darbelerden koruyan EPS ve PC hibrit çift katman teknolojisi, kaskın minimal ağırlık ile maksimum korumayı bir arada sunmasını sağlar.\n\nHava kanalları kafayı serin tutarken, alt kısmı alaşımlı çene tokası güvenli kapatma sağlar. Birden fazla pozisyonda ayarlanabilir kafa bandı her kafa şekline uyum sağlar.",
+    "fiyat": 1450.00,
+    "teknik_ozellikler": {
+      "Sertifika": "EN 12492 + UIAA",
+      "Teknoloji": "Hibrit EPS Köpük + PC Kabuk",
+      "Ağırlık": "280 gram",
+      "Boyut": "S/M ve L/XL Seçenek"
+    }
+  },
+  {
+    "id": 322,
+    "baslik": "GripMaster Tırmanış Tutacağı (50 Parça Set)",
+    "aciklama": "Ev duvarına veya yapay tırmanış panelinize monte edilebilen farklı tutuş tipi ve zorluk seviyesinde elli adet kaya tırmanışı tutacağı seti. Sıkıştırma tutacakları (crimp), topuz tutacakları (jug), çıkıntı tutacakları (sloper) ve parmak delikli (pocket) modeller dahil tüm tırmanış hareketlerini antrenman ortamına taşır.\n\nHer tutacak yüksek yük taşıma kapasiteli T-nut vida sistemi ile 18mm çaplı panoya güvenle monte edilir. Çocuk ve yetişkin el boyutlarına göre ölçeklendirilmiş küçük ve büyük boyutlar ayrı ayrı sipariş edilebilir.",
+    "fiyat": 950.00,
+    "teknik_ozellikler": {
+      "İçerik": "50 Adet (10 Farklı Tip)",
+      "Montaj": "T-Nut 3/8 inç Standart Vida",
+      "Malzeme": "Yüksek Yoğunluklu Poliüretan",
+      "Kapasite": "Her Biri 200 kg Teste Tabi"
+    }
+  },
+  {
+    "id": 323,
+    "baslik": "OffRoad Elekrikli Dağ Bisikleti (E-MTB)",
+    "aciklama": "Sert dağ patikalarını kolaylıkla tırmanan, 250W Bosch mid-drive motoruyla pedalı destekleyen elektrikli dağ bisikleti. Doğrudan pedal miline monte edilen motor, tekerlek göbeğindeki hub motorlara kıyasla çok daha dengeli ağırlık dağılımı ve doğal sürüş hissi sağlar.\n\nKonfig edilebilir destek seviyeleri (Eco, Tour, Sport, Turbo) farklı arazi ve sürüş tercihlerine göre menzili ve gücü optimize eder. 150mm ön-arka süspansiyon tüm yol koşullarında maksimum kontrolü destekler.",
+    "fiyat": 42000.00,
+    "teknik_ozellikler": {
+      "Motor": "250W Bosch Performance CX Mid-Drive",
+      "Batarya": "625 Wh - 100 km Menzil",
+      "Süspansiyon": "150mm Ön + Arka (Full Suspension)",
+      "Vites": "12 Hız Shimano Deore XT"
+    }
+  },
+  {
+    "id": 324,
+    "baslik": "AquaJet Yetişkin Yüzme Paleti (Hafif)",
+    "aciklama": "Açık su antrenmanları ve triatlon hazırlıkları için tasarlanan kısa (short blade) palet modelinin performans odaklı versiyonu. Tamamen kapalı tasarımlı alternatiflerinden farklı olarak topuk açık bırakılmıştır; bu sayede ayak bileği kasları daha fazla çalışır ve daha güçlü bir tekme vuruşu geliştirilir.\n\nThermoplastic lastik kauçuk malzeme her ayak şekline ergonomik uyum sağlar ve uzun seanslar boyunca baskı noktası oluşturmaz. Dayanıklı plastik orta yapı, ayak parmak kıvrımının palet eğimine aktarılmasını sağlar.",
+    "fiyat": 580.00,
+    "teknik_ozellikler": {
+      "Tip": "Kısa Bıçak (Shortblade) Açık Topuk",
+      "Malzeme": "Thermoplastic Kauçuk",
+      "Boyut": "S-M-L-XL Seçenek",
+      "Kullanım": "Havuz ve Açık Su Antrenmanı"
+    }
+  },
+  {
+    "id": 325,
+    "baslik": "BoardX Pro Kaykay (Profesyonel Komplet)",
+    "aciklama": "Sokak ve rampa kaykayının her türlü hilesine (ollie, kickflip, grind) uygun yapılandırılmış, kuzey Amerikalı ağaç akçaağaçtan preslenen 7 katlı komplet kaykay. 52mm tekerler hızlı ivmelenmeye karşın hafif giriş direnci sayesinde parkur geçişlerini kolaylaştırır.\n\nPrecision döküm alüminyum vidalar (truck) sert virajlarda bükülme olmaksızın güvenilir bir yönlendirme sağlar. Gripinizi kaybetmemeniz için silisyum karbür kum kağıdı yüzey, normal bir kum kağıdının iki katı ömüre sahiptir.",
+    "fiyat": 1600.00,
+    "teknik_ozellikler": {
+      "Deck": "7 Katlı Kuzey Amerikan Akçaağaç",
+      "Boyut": "8.0\" Genişlik",
+      "Tekerlekler": "52mm 99A Poliüretan",
+      "Kamyon": "139mm Precision Alüminyum"
+    }
+  },
+  {
+    "id": 326,
+    "baslik": "SplitBoard Kış Tırmanış Splitboard Seti",
+    "aciklama": "Arka ülke (backcountry) snowboard tutkunları için uzun çıkışlarda iki ayrı kayak olarak birleştirilen, iniş de tam snowboard formuna dönen splitboard seti. Mohair ve naylon karışımı tırmanma derisi altına yapıştırıldığında kayakçının öne adım atmasına izin verir ama geriye kaymasını önler.\n\nMode geçişleri (tırmanış modu/iniş modu) özel bağlama adaptörleri aracılığıyla eldivensiz bile 60 saniyenin altında tamamlanabilir. Karbonlu çekirdek yapı her iki moda geçiş gerektirdiği için yeterli sertlikte ve esneklikte üretilmiştir.",
+    "fiyat": 18500.00,
+    "teknik_ozellikler": {
+      "Uzunluk": "155 - 163 cm Seçenek",
+      "Bölme": "2 Parça Tırmanış Kayağı + Bağlama",
+      "Deri": "Karışık Mohair Tırmanış Derisi",
+      "Mod Değişim": "< 60 Saniye"
+    }
+  },
+  {
+    "id": 327,
+    "baslik": "ProShot Geniş Açı Drone Kamera Lensi",
+    "aciklama": "DJI Mini ve Air serisi ile uyumlu manyetik montajlı genişletme lensi. Orijinal kamera görüş açısını 4K kaliteyi koruyarak yüzde yirmi beş genişleterek daha geniş manzaraların tek çekimde kaydedilmesini sağlar.\n\nMCs-T kalitesinde çok kaplı optik camı gölgeli ve güneşli ortamlarda lens flare (lens yansıması) oluşumunu minimize eder. Manyetik hızlı montaj sayesinde 1 saniyede takılır ve çıkarılır; uzun uçuşlarda batarya değiştirme sırasında vakit kaybetmek gerekmez.",
+    "fiyat": 850.00,
+    "teknik_ozellikler": {
+      "Uyumluluk": "DJI Mini 2/3/4 ve Air 2/2S/3",
+      "Açı Genişleme": "%25 Geniş Açı",
+      "Optik": "Çok Kaplı Anti-Yansıma Cam",
+      "Montaj": "Manyetik Hızlı Bağlama"
+    }
+  },
+  {
+    "id": 328,
+    "baslik": "StudioSet 3 Parça Softbox Aydınlatma Kiti",
+    "aciklama": "Ev stüdyosunda veya profesyonel çekimlerde video ve fotoğraf çekimlerini gün ışığı kalitesinde aydınlatan 3 parçalı softbox LED aydınlatma seti. Gün ışığı (5500K daylight) dengeli renk sıcaklığı renk doğruluğunu en üst düzeyde tutarken, her kutunun yüzde birden yüze ayarlanabilir parlaklığı ışığı tam ihtiyaç duyulan noktaya atar.\n\nAyarlanabilir teleskopik tripodlar 60 cm'den 200 cm'e kadar uzayarak çekim seti yüksekliğini şekillendirmenizi sağlar. Yumuşak ve geniş bir ışık alanı oluşturan sekizgen softbox gölgeleri doğallaştırır.",
+    "fiyat": 2400.00,
+    "teknik_ozellikler": {
+      "Set": "3 x 45W LED Softbox + Tripod",
+      "Renk Sıcaklığı": "5500K (%95 CRI)",
+      "Parlaklık": "%1 - %100 Sonsuz Ayar",
+      "Softbox": "60 cm Sekizgen"
+    }
+  },
+  {
+    "id": 329,
+    "baslik": "VoiceCapture USB Condenser Mikrofon",
+    "aciklama": "Podcast, YouTube, gaming ve ses kayıt stüdyosu kurulmak isteyenler için gerçek kondenser kapsül teknolojisiyle üretilen, USB bağlantılı, kulaklık çıkışlu ve gecikme yaratmayan (zero-latency) monitöring özellikli mikrofon. Kardioid polar pattern, önde net ses kaydederken yanlarda ve arkada istenmeyen ortam sesini yüzde seksen bastırır.\n\nMavi krom kaplama tripod altlığı sağlam bir masa tutunması sunarken, darbeli sarsıntı kafesi (shock mount) titreşimlerin mikrofona iletilmesini önler. Sürücü yüklemesi gerektirmez; bilgisayara takılır takılmaz çalışır.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Tip": "Kondenser Kardioid",
+      "Frekans": "20Hz - 20kHz",
+      "Bit Derinliği": "24-bit / 96kHz",
+      "Ekstra": "Zero-Latency Kulaklık Çıkışı, Shock Mount Dahil"
+    }
+  },
+  {
+    "id": 330,
+    "baslik": "MixBoard Pro 4 Kanallı Ses Mikseri",
+    "aciklama": "Ev stüdyo kayıtlarından küçük sahnelere kadar geniş kullanım senaryosu sunan 4 girişli analog + dijital hibrit ses mikseri. Her kanalda EQ, gain ve kompresör kontrolleri ile ses kayıtlarını ve canlı performansları profesyonel kaliteye taşır.\n\nDahili USB ses kartı, mikseri ayrıca ses arayüzü (audio interface) olarak bilgisayara bağlamanıza olanak tanır. Bluetooth girişi, telefon veya tabletinden müzik çalmak isteyen DJ'ler ve sunum yapanlar için konfor sağlar.",
+    "fiyat": 3600.00,
+    "teknik_ozellikler": {
+      "Kanal": "4 XLR/TRS Combo Giriş",
+      "Efekt": "Dahili DSP Efekt (Reverb, Delay, Chorus)",
+      "Bağlantı": "USB Ses Kartı + Bluetooth 5.0",
+      "Çıkış": "Main XLR + Kulaklık + Monitor"
+    }
+  },
+  {
+    "id": 331,
+    "baslik": "KeyStudio 49 Tuşlu MIDI Klavye Kontrolör",
+    "aciklama": "Müzik prodüktörlerinin ve home studio sahiplerinin stüdyo yazılımlarını kontrol etmek için kullandığı 49 tuşlu yarı ağırlıklı MIDI klavye. Pitch bend ve modülasyon tekerleği, 8 adet üzeri dokunmaya hassas drum pad ve 9 adet kaydırma çubuğu ile tüm DAW kontrollerini klavye başından yapabilirsiniz.\n\nAbleton Live, Logic Pro, Cubase ve FL Studio ile tam entegrasyon sunar; yazılım açıldığında klavye otomatik olarak ilgili kontrolörü tanır. Güç için ayrı adaptöre ihtiyaç duymadan USB üzerinden çalışır.",
+    "fiyat": 2200.00,
+    "teknik_ozellikler": {
+      "Tuş Sayısı": "49 Yarı Ağırlıklı Tuş",
+      "Pad": "8 Velocity-Hassas Drum Pad",
+      "Kontrol": "9 Fader, 8 Knob, 8 Buton",
+      "Bağlantı": "USB-C + MIDI DIN 5 Pim"
+    }
+  },
+  {
+    "id": 332,
+    "baslik": "GuitarPro Carbon Karbon Fiber Akustik Gitar",
+    "aciklama": "Nem ve sıcaklık değişimlerinden etkilenen geleneksel ahşap gövdeli gitarlara karşı, her hava koşulunda akord stabilitesini koruyan karbon fiber gövdeli akustik gitar. Karbon fiber rezonans özelliği ahtapot kabuğuna benzer şekilde yüksek overtone içeriği ve kristal netlikte ses üretir.\n\nParlak veya mat finish seçeneğinde mevcut olan gitar, kamp ateşinin nemli havasında, sahil seyahatlerinde ve sıcak araç bagajında herhangi bir deformasyona uğramadan güvenle taşınabilir.",
+    "fiyat": 12500.00,
+    "teknik_ozellikler": {
+      "Gövde": "Tam Karbon Fiber (Üst + Arka + Yan)",
+      "Sap": "Karbon Fiber Destekli Masif Akçaağaç",
+      "Eşik": "Kemik Eşik ve Dil",
+      "Tuning": "Göçük Dişliler, Akord Stabilitesi"
+    }
+  },
+  {
+    "id": 333,
+    "baslik": "ElectroHarp Digital Elektro Akustik Gitar",
+    "aciklama": "Sahne ve stüdyo kullanımı için eşit seviyede performans sergileyen, içine entegre mikrofon ve piezo pikap sistemiyle hem akustik hem elektrik çıkışı sunan elektroakustik gitar. Krom kafaları ve blok kakma sanat işçiliği sahne görünürlüğünü artırır.\n\nDahili Fishman elektronik sistemi EQ ve notch filtrelerle geri besleme (feedback) kontrolünü doğrudan gitardan yapmanızı sağlar. Cutaway (eğik gövde) tasarımı üst sapın 20. perdeye kadar erişimi kolaylaştırır.",
+    "fiyat": 6800.00,
+    "teknik_ozellikler": {
+      "Pickup": "Fishman Presys+ Piezo + Kondenser",
+      "EQ": "3 Bantlı + Notch Filtre + Tuner",
+      "Gövde": "Cutaway Dreadnought",
+      "Sap Malzeme": "Masif Maun + Gülağacı Klavye"
+    }
+  },
+  {
+    "id": 334,
+    "baslik": "TravelUke Konser Ukulele (Karbon Fiber)",
+    "aciklama": "Havayolu bagajına sorunsuz giren boyutu ve karbon fiber gövdesiyle seyahat ukulelelerinin zirvesini temsil eden konser boyu enstrüman. Karbon fiber her hava koşuluna karşı dirençlidir ve akustik ahşap ukulelelerin sıcaklık-nem değişimlerine bağlı akord problemlerini tamamen ortadan kaldırır.\n\nAquila Nylgut teller fretboard boyunca eşit intonasyon sunar. Kılıfı ile birlikte 450 grama ulaşan toplam ağırlık, ek taşıma külfeti yaratmadan yan çantaya ya da sırt çantasının yan cebine kolayca girer.",
+    "fiyat": 2800.00,
+    "teknik_ozellikler": {
+      "Boyut": "Konser (38 cm Gövde)",
+      "Gövde": "Tam Karbon Fiber",
+      "Teller": "Aquila Nylgut",
+      "Ağırlık": "390 gram (Kılıfsız)"
+    }
+  },
+  {
+    "id": 335,
+    "baslik": "LeatherCraft Başlangıç Deri İşçiliği Seti",
+    "aciklama": "Cüzdan, kemer, kılıf ve bileklik gibi ilk deri projelerini yapmak için gerekli tüm malzemeleri içeren profesyonel başlangıç seti. Bitkisel tabaklanmış 2mm kalınlık naturel deri, boyama, şekillendirme ve kalıplamaya en uygun ham derilerden biridir.\n\nAlet takımı; dikiş yumağı, pul delinme işkirizi (awl), kenar düzeltici (beveler), şekil kesici, deri tokası ve dikiş dikişleme aleti içerir. 20 sayfalık proje kılavuzu başlangıç seviyesi için uygun beş proje tarifi ile birlikte gelir.",
+    "fiyat": 750.00,
+    "teknik_ozellikler": {
+      "Deri": "3 Adet A4 Bitkisel Tabaklanmış (2mm)",
+      "Alet": "15 Adet Deri İşçiliği El Aleti",
+      "İplik": "Linhasita Balmumu Deri Dikişi",
+      "Rehber": "5 Proje Adım Adım Kılavuz"
+    }
+  },
+  {
+    "id": 336,
+    "baslik": "CandleKit Doğal Soya Mum Yapım Seti",
+    "aciklama": "Evde kendi el yapımı mumlarınızı dökmek için eksiksiz bir başlangıç kiti. Doğal soya balmumu, keten yağı ile boyalı fitil, 6 cam kap, 12 farklı esansiyel yağ ve boyalar sette yer alır.\n\nSoya balmumu, parafin alernatiflere göre daha yavaş ve homojen yanar; kurumaya başladığında pürüzlü kraterleme oluşturmaz. Aromaterapötik amaçlı güzel kokulu mumlardan kişiselleştirilmiş hediyelere kadar çeşitli yaratıcı projeler için kullanılabilir.",
+    "fiyat": 480.00,
+    "teknik_ozellikler": {
+      "Balmumu": "500g Doğal Soya (Paraben İçermez)",
+      "Kap": "6 Adet 200ml Cam",
+      "Esans": "12 Farklı Esansiyel Yağ",
+      "Boyalar": "10 Renk Mum Boyası"
+    }
+  },
+  {
+    "id": 337,
+    "baslik": "SoapLab El Yapımı Sabun Seti",
+    "aciklama": "Soğuk işlem (cold process) yöntemiyle doğal sabun yapımı için gereken tüm hammaddeleri ve ekipmanları içeren kapsamlı kit. Organik zeytinyağı, hindistan cevizi yağı ve palmiyesiz formül, hassas ciltler için uygundur.\n\nKit içindeki silikon kalıplar üç farklı şekilde (dikdörtgen, yuvarlak ve çiçek) sabun dökülmesine imkan tanır. Güvenli lye (sodyum hidroksit) kullanımı için koruyucu eldiven ve gözlük de dahildir. Doğal kil ile renk verme, kafein özüyle canlandırıcı dokunuş gibi beş farklı tarif içerir.",
+    "fiyat": 550.00,
+    "teknik_ozellikler": {
+      "Yağ": "Zeytinyağı + Hindistan Cevizi + Ricin",
+      "Kalıp": "3 Farklı Silikon Şekil",
+      "Renklendirici": "5 Doğal Pigment ve Kil",
+      "Ekstra": "Güvenlik Ekipmanı + 5 Tarif"
+    }
+  },
+  {
+    "id": 338,
+    "baslik": "TerraForm Seramik Çömlek Yapım Kiti",
+    "aciklama": "El çarkı gerektirmeden elle şekillendirme (hand-building) tekniğiyle kase, bardak ve dekoratif objeler yapılmasını sağlayan seramik başlangıç kiti. Fırınlanabilir kil, farklı pişirme aşamaları için engobe, sır ve fırın güvenlik kağıdı sette yer alır.\n\nFırında pişirme (250°C'ye dayanıklı ev fırını) sayesinde profesyonel seramik fırınına gerek olmadan evde tamamlanan porselen seramik üretilir. 10 saatlik eğitim videosu, temel sarma tekniği, slab inşa ve parmak basma ile şekillendirme dahil tüm el yapımı yöntemleri anlatmaktadır.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Kil": "2 kg Fırınlanabilir Seramik Kili",
+      "Sır": "8 Renk Sır Seti",
+      "Fırın": "Ev Fırını Uyumlu (250°C)",
+      "Eğitim": "10 Saat Video Kurs Erişimi"
+    }
+  },
+  {
+    "id": 339,
+    "baslik": "MacroCraft 3D Ahşap Lazer Kazıma Makinesi",
+    "aciklama": "Masaüstünde kullanılabilen kompakt CO2 lazer kazıma ve kesme makinesi; ahşap, deri, akrilik, kağıt ve kumaş üzerinde fotoğraf, logo, desen ve metin işleme yapabilir. Yüksek çözünürlüklü lazer kafası 0.01mm hassasiyetle bıçak değiştirmeden sanatsal ürünler ve kişiselleştirilmiş hediyeler üretir.\n\nDahili kamera sistemi çalışma alanını gerçek zamanlı görüntüler ve kazıma konumunun doğruluğunu kolayca kontrol etmenizi sağlar. Lazer gücü yüzde bire kadar hassas ayarlanarak farklı malzemelerin gereksinimlerine uyum sağlar.",
+    "fiyat": 14500.00,
+    "teknik_ozellikler": {
+      "Lazer Gücü": "10W Diode Lazer",
+      "Çalışma Alanı": "40 x 40 cm",
+      "Hassasiyet": "0.01 mm",
+      "Malzeme": "Ahşap, Deri, Akrilik, Kağıt, Kumaş"
+    }
+  },
+  {
+    "id": 340,
+    "baslik": "FilamentPro 3D Yazıcı (FDM)",
+    "aciklama": "Hobi, prototip ve küçük seri üretim için ideal, kalibrasyonu kolaylaştırılmış otomatik leveling sistemi ve doğrudan sürücülü (direct drive) ekstruder ile her filamenti sorunsuz basan FDM 3D yazıcı. PLA, PETG, ABS, TPU ve karbonlu filamentler dahil geniş malzeme yelpazesiyle uyumludur.\n\nOtonom baskı yönetimi sistemi; güç kesilmesinde kaldığı yerden devam eder, filament bittiğinde duraksatır. Hızlı baskı modunda 300mm/s baskı hızına ulaşarak standart modellerin hızını üçe katlar.",
+    "fiyat": 8500.00,
+    "teknik_ozellikler": {
+      "Baskı Hacmi": "220 x 220 x 260 mm",
+      "Ekstruder": "Direct Drive, 300°C'ye Kadar",
+      "Hız": "300 mm/s (Hızlı Mod)",
+      "Leveling": "Otomatik 25 Noktalı Mesh Kalibrasyon"
+    }
+  },
+  {
+    "id": 341,
+    "baslik": "ResinCraft UV Reçine 3D Yazıcı",
+    "aciklama": "Hassas modeller, takı kalıpları ve diş protezi prototipleri gibi ultra detaylı baskılar için seçilen mSLA UV reçine 3D yazıcı. 0.01mm XY çözünürlüğü ve monoLCD ekranı ile geleneksel FDM yazıcıların asla ulaşamayacağı pürüzsüz yüzey kalitesi sunar.\n\nTilting (eğimli) FEP tabakası, baskı platformundan her katman sonrası reçinenin ayrılmasını kolaylaştırarak başarısız baskıları minimuma indirir. HEPA ve aktif karbon filtreli hava arıtma sistemi reçine buharlarını çalışma ortamında hapsetmez.",
+    "fiyat": 6800.00,
+    "teknik_ozellikler": {
+      "Teknoloji": "mSLA Monokmrome LCD",
+      "XY Çözünürlük": "0.0127 mm (2560x1620)",
+      "Z Hızı": "70 mm/saat",
+      "Ekstra": "HEPA + Aktif Karbon Filtre"
+    }
+  },
+  {
+    "id": 342,
+    "baslik": "HamRadio Kompakt UHF/VHF El Telsizi",
+    "aciklama": "Amatör radyo lisansına sahip operatörler için hem UHF (70 cm) hem VHF (2m) bantlarda çift yönlü haberleşme sağlayan çift bantlı el telsizi. 8W iletim gücü ve teleskopik anten ile şehir içinde 5-10 km, açık arazi ve tepe üstünde 50 km'nin üzerinde menzil elde edilebilir.\n\n1.77 inç renkli ekranı anlık frekans, güç ve batarya bilgilerini gösterir. 128 bellek kanalına kadar programlanabilir ve CHIRP yazılımıyla bilgisayar üzerinden toplu kanal yükleme yapılabilir.",
+    "fiyat": 750.00,
+    "teknik_ozellikler": {
+      "Bantlar": "UHF 400-480 MHz + VHF 136-174 MHz",
+      "Güç": "8W (Maksimum)",
+      "Batarya": "3800 mAh Li-ion",
+      "Bellek": "128 Programlanabilir Kanal"
+    }
+  },
+  {
+    "id": 343,
+    "baslik": "SatNav Pro 7\" Navigasyon Cihazı",
+    "aciklama": "İnternet bağlantısı gerektirmeyen, önceden yüklenmiş offline Türkiye ve Avrupa haritasıyla çalışan dokunmatik ekranlı GPS navigasyon cihazı. Gerçek zamanlı trafik bilgisi (TMC alıcısı dahil) ile alternatif rotaları hesaplar ve tıkanıklık önleme yönlendirme yapar.\n\nKamyon, karavan ve TIR modu için araç boyutu ve ağırlığı girildiğinde alt kısıtlamaları olan yolları ve tünelleri otomatik olarak rota dışı bırakır. Sesli yönlendirme Türkçe dahil 30 dil seçeneğinde kullanılabilir.",
+    "fiyat": 2800.00,
+    "teknik_ozellikler": {
+      "Ekran": "7 inç Dokunmatik IPS",
+      "Harita": "Türkiye + 45 Avrupa Ülkesi (Offline)",
+      "Trafik": "TMC Real-Time Trafik",
+      "Araç Modu": "Araba, Kamyon, Karavan, Motosiklet"
+    }
+  },
+  {
+    "id": 344,
+    "baslik": "CarVac 120W Araç İçi Vakumlu Temizleyici",
+    "aciklama": "12V araç priziyle çalışan, 120W gücünün verdiği güçlü emişle koltuk arası kumlardan paspas kıllarına kadar araç içini derin temizleyen kompakt araç süpürgesi. HEPA filtresi ince toz parçacıklarını hava akışına karışmadan hapseder.\n\nYumuşak fırçalı başlık gösterge paneli ve deri koltukları çizmeden temizler. Çeşitli iç köşe ve havalandırma menfezlerine ulaşan uzun ince nozul, standart el süpürgelerinin yetersiz kaldığı noktalara erişim sağlar.",
+    "fiyat": 450.00,
+    "teknik_ozellikler": {
+      "Güç": "120W (12V Araç Prizi)",
+      "Emme": "15.000 Pa",
+      "Filtre": "HEPA H11",
+      "İçerik": "4 Başlık + 5 Filtre Seti"
+    }
+  },
+  {
+    "id": 345,
+    "baslik": "DashCam Pro 4K Çift Yönlü Araç Kamerası",
+    "aciklama": "Ön ve arka aynı anda 4K kaydeden, GPS konum ve hız bilgilerini her kareye işleyen çift kanallı araç kamerası. Gece çekimlerinde başarılı olan StarLight sensörü, karanlık otoyol koşullarında bile plaka okunabilir görüntü sunar.\n\nPark modu aktifken araç kapalı olsa bile çarpma sensörü titreşim tespit ettiğinde otomatik kayda başlar ve olası kaza ihtimallerinde delil oluşturur. Dahili eWifi üzerinden telefona anlık video aktarımı yapılabilir ve eski kayıtlar silinmeden döngüsel kayıt devam eder.",
+    "fiyat": 2400.00,
+    "teknik_ozellikler": {
+      "Çözünürlük": "Ön 4K + Arka 1080p",
+      "Sensör": "Sony Starlight Gece Sensörü",
+      "Ekstra": "GPS + Park Modu + Wi-Fi",
+      "Depolama": "microSD 256GB'a Kadar Uyumlu"
+    }
+  },
+  {
+    "id": 346,
+    "baslik": "TireGuard Akıllı Lastik Basınç İzleme Sistemi",
+    "aciklama": "Dört lastiğin basıncı ve sıcaklığını gerçek zamanlı olarak araç ekranında veya uygulamada gösteren kablosuz TPMS sistemi. Lastik basıncı kritik sınırın altına düştüğünde veya ani hava kaybı yaşandığında sesli ve görsel uyarı vererek kontrölsüz patlama riskini önler.\n\nSolar destekli harici sensörler 5+ yıl pil ömrü sunar. Montaj için lastik söktürme gerekmez; sensörler hava kapağının yerine vidayla takılır. Tüm araç tipleri ile uyumludur.",
+    "fiyat": 850.00,
+    "teknik_ozellikler": {
+      "Sensör": "4 Adet Harici Kablosuz TPMS Sensörü",
+      "Göstergeler": "Basınç (0-8 Bar) + Sıcaklık (-40 ila 125°C)",
+      "Ekran": "2.4 inç Renkli LCD Monitör",
+      "Pil": "Güneş Destekli + Yedek CR2032"
+    }
+  },
+  {
+    "id": 347,
+    "baslik": "AutoStart Akıllı Motor Isıtıcı ve Uzaktan Starter",
+    "aciklama": "Soğuk kış sabahlarında araç motoru çalıştırılmadan en az 15 dakika önce ısıtma sistemini uzaktan devreye alarak hem motoru hem de iç mekanı ön ısıtma yapan akıllı uzaktan çalıştırma sistemi. Uygulama üzerinden günlük veya haftalık ısıtma programları oluşturulabilir.\n\nAkü voltajı tehlikeli seviyeye düştüğünde sistem otomatik olarak kendini kapatır ve aküyü korur. LTE modülü 4G şebeke üzerinden dünyanın herhangi bir yerinden çalıştırma imkanı sunar.",
+    "fiyat": 4500.00,
+    "teknik_ozellikler": {
+      "Bağlantı": "LTE 4G + Bluetooth",
+      "Planlama": "Haftalık Ön Programlama",
+      "Koruma": "Akü ve Motor Koruma Sensörü",
+      "Uyumluluk": "Benzinli, Dizel ve Hibrid Araçlar"
+    }
+  },
+  {
+    "id": 348,
+    "baslik": " Taşınabilir Araç Lift Krikosi",
+    "aciklama": "Döşeme lastik değişimi, fren balatas kontrolü ve alt şase müdahaleleri için araç altına erişimi sağlayan, 3 ton kapasiteli hidrolik makaskan. Geniş yükseklik aralığı sayesinde SUV ve yüksek araçlar dahil çoğu araç modeline uygundur.\n\nHızlı kaldırma valfi birkaç pompa darbesiyle aracı hızla kaldırır. Düşük profilli özel kaldırma başlığı, zemin ile araç arasındaki boşluğun kısıtlı olduğu spor ve spor araçlara girer.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Kapasite": "3 Ton",
+      "Yükseklik Aralığı": "100 - 460 mm",
+      "Tip": "Alçak Profilli Makaskan Krikosi",
+      "Malzeme": "Döküm Çelik Gövde"
+    }
+  },
+  {
+    "id": 349,
+    "baslik": " Araç Için Premium TPE Paspas Seti",
+    "aciklama": "LaserFit teknolojisiyle araç modeline göre milimetre hassasiyetinde kalıplandığından döşemeyi tamamen kapatan, kış kar suyunu ve yaz kumunu sızdırmayan tam TPE (termoplastik elastomer) paspas seti. TPE malzeme; kauçuğun dayanıklılığını ve polipropilen esneği bir arada sunar.\n\nDöşemeye sabit tutunma için her paspasın altında kaymaz tırnak sistemi mevcuttur. Koku ve allerjen içermez. Kiri tutundurmayan pütürlü yüzey, tazyikli su veya nemli bezle saniyelerde temizlenir.",
+    "fiyat": 1250.00,
+    "teknik_ozellikler": {
+      "Malzeme": "Koku Gidersiz TPE",
+      "Uyumluluk": "Araç Modeline Özel Lazer Kalıp",
+      "İçerik": "4 Adet (Ön + Arka Takım)",
+      "Ekstra": "Kaymaz Tırnak + Yıkama Makinesinde Yıkanabilir"
+    }
+  },
+  {
+    "id": 350,
+    "baslik": "ShoulderPack Laptop Sırt Çantası (17\")",
+    "aciklama": "Laptop bölmesine 17 inç notebook sığdıran, çok bölmeli düzeni ile ofis, okul ve seyahat ihtiyaçlarının tamamını tek çantada toplayan ergonomik sırt çantası. Hava kanalları sayesinde sırt ile çanta arasında dolaşım sağlanır; uzun taşıma sürelerinde sıcaklık birikmez.\n\nUSB şarj portu; çanta içindeki powerbank'e bağlanarak çanta sırtınızdayken dışarıdan telefon şarj etmenize olanak tanır. Bavula bağlanan kayış sistemi, seyahatlerde çantayı bavuzun üstüne sabit tutar.",
+    "fiyat": 980.00,
+    "teknik_ozellikler": {
+      "Laptop Bölmesi": "17 inç Köpüklü",
+      "Hacim": "35 Litre",
+      "Malzeme": "Oxford 900D Su İtici",
+      "Ekstra": "USB Şarj Portu + Bagaj Kayışı"
+    }
+  },
+  {
+    "id": 351,
+    "baslik": "TravelPro Makyaj ve Seyahat Kozmetik Çantası",
+    "aciklama": "Asılarak kullanılabilen çok katlı organizasyonuyla tüm makyaj malzemelerini, bakım ürünlerini ve takıları tek çantada derli toplu düzenleyen seyahat kozmetik çantası. İç katmanlar açıldığında otomatik olarak açılan kapaklar tüm bölmeleri aynı anda göstermeye sunar.\n\nSu geçirmez iç astarlı bölüm sıvı döküntülerinde diğer malzemeleri kirletmez. Paslanmaz çelik kanca asma otellerinde banyo kapısına veya lavabo rafına kolayca asılabilir.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Asma": "Paslanmaz Çelik Kanca",
+      "Bölme": "4 Açılır Kat + Aynalı İç Kapak",
+      "Malzeme": "Oxford 600D + Su Geçirmez İç Astar",
+      "Boyut": "22 x 16 x 13 cm (Kapalı)"
+    }
+  },
+  {
+    "id": 352,
+    "baslik": "SnapCase Sert Kapaklı Elektronik Alet Taşıma Çantası",
+    "aciklama": "Drone, kamera, telsiz veya hassas elektronik cihazlar için askeri sınıf EVA sert kabuk dış cephesi ve kesilip şekillendirilebilir köpük iç dolgusuyla özel koruma sağlayan taşıma çantası. Çift fermuar ve kombinasyon kilidi sistemi yetkisiz erişimi engeller.\n\nIPX4 sızdırmaz hava geçirmez contalı kapak sistemi nem ve toz geçişini önler. Köpük dolgu cihazın tam boyutuna göre kesilerek biçimlendirilir; standart paket köpük yetersizliği yaşanmaz.",
+    "fiyat": 850.00,
+    "teknik_ozellikler": {
+      "Dış Kabuk": "Askeri Sınıf ABS+PA Alaşımı",
+      "İç Dolgu": "Kesilip Şekillendirilebilir Pick'n'Pluck Köpük",
+      "Kilit": "Çift TSA Kombinasyon Kilidi",
+      "Su Geçirmezlik": "IPX4"
+    }
+  },
+  {
+    "id": 353,
+    "baslik": "PaperThin Ultralight Seyahat Battaniyesi",
+    "aciklama": "Kırk gramlık ağırlığı ve cebe giren boyutuyla havayolu battaniyelerini utandıran ama gerçek termal konfor sağlayan tekno-fiber ultralight battaniye. Aerogel fiber içeren çift katman sıkıştırıldığında bir avuç büyüklüğüne iner ama açıldığında 200x120 cm'e ulaşır.\n\nHava akışına izin veren mikro delikli yüzey aşırı terlemeyi önler. Uçak yolculuklarında, piknikte, kamp ateşinde ve spor maçlarında aynı rahatlıkla kullanılan çok amaçlı bir termal katman olarak işlev görür.",
+    "fiyat": 450.00,
+    "teknik_ozellikler": {
+      "Ağırlık": "40 gram",
+      "Boyutlar": "200 x 120 cm",
+      "Malzeme": "Aerogel Destekli Nano Fiber",
+      "Sıkıştırılmış Boyut": "13 x 10 x 4 cm"
+    }
+  },
+  {
+    "id": 354,
+    "baslik": "AdaptRack Modüler Masa Üstü Organizer",
+    "aciklama": "Çalışma masanızın kaosunu sona erdiren, mıknatıs bağlantılı modüler ekleme bloklarıyla istediğiniz şekilde büyütülebilen masa üstü organizer sistemi. Her blok birbirinden bağımsız olarak kalem haznesi, kablo tutacağı, bellek kartı yuvası, telefon standı veya post-it tutacağı olarak işlev görür.\n\nAlüminyum anodize yüzey çizilmez ve solmaz. Tüm bloklar aynı manyetik kenetleme sistemiyle uyumludur ve sınırsız kombinasyon yaratılabilir. Ahşap, siyah veya gümüş renk temalarında mevcuttur.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Sistem": "Manyetik Modüler Kenetleme",
+      "Malzeme": "Anodize Alüminyum",
+      "Bağlantı": "Her Modül Birbirine Tam Uyumlu",
+      "İçerik": "7 Temel Modül (Genişletilebilir)"
+    }
+  },
+  {
+    "id": 355,
+    "baslik": "LiteStep Ergonomik Ayakaltı Dinlenme Desteği",
+    "aciklama": "Uzun masa başı çalışmalarında bacak ve sırt yorgunluğunu azaltan, yükseklik ve açısı ayarlanabilir ergonomik ayakaltı dinlenme desteği. Maskelenmiş pasif dinlenme modu olan sallanma hareketi kan dolaşımını düzenleyerek bölgesel uyuşmaları önler.\n\nMassaj topuzlarıyla kaplı üst yüzey, plantar fasya ve ayak tabanına refleksoloji stimülasyonu uygular. Altı antiskid pabuçlar uzun süreli kullanımda zeminde kaymasını engeller.",
+    "fiyat": 480.00,
+    "teknik_ozellikler": {
+      "Yükseklik Ayarı": "10 - 18 cm (5 Kademe)",
+      "Açı Ayarı": "0° - 30°",
+      "Yüzey": "Masaj Noktacıklı Kaymaz Kapak",
+      "Malzeme": "Yüksek Yoğunluklu PP + ABS"
+    }
+  },
+  {
+    "id": 356,
+    "baslik": "SpineAlign Aktif Oturma Denge Topu Sandalyesi",
+    "aciklama": "Omurga duruşunu düzelten, karın ve sırt kaslarını sürekli aktif tutan denge topu sandalyesi. Pasif oturmayı aktif bir egzersize dönüştüren top tabanı, sırt ağrısını azaltarak odak ve enerji düzeyini artırır.\n\nPatlama dirençli (burst-resistant) kalın lastik yüzey 300 kg'a kadar güvenle taşır. Kaymaz taban yüzeyi ve topun üst kısımda sabit durmasını sağlayan eğer kasesi ile masa başında kayma ve dengesizlik yaşanmaz.",
+    "fiyat": 650.00,
+    "teknik_ozellikler": {
+      "Çap": "65 cm (Ayarlanabilir, 75 cm de var)",
+      "Kapasite": "300 kg Burst-Resistant",
+      "Malzeme": "Kaymaz PVC Top",
+      "Taban": "Çıkarılabilir Eğer Kasesi + Kaymaz Pedler"
+    }
+  },
+  {
+    "id": 357,
+    "baslik": "WristPad Jel Bilek Destekli Klavye Altlığı",
+    "aciklama": "Uzun süreli klavye kullanımında karpal tünel sendromu riskini azaltan, bilek destekli jel klavye altlığı ve mouse pad kombinasyonu. Yüksek yoğunluklu bellek jeli bileklerinizi doğru açıda desteklerken vücut ısısına uyum sağlar.\n\nMikro-dokulu mouse yüzeyi lazer ve optik sensörlerde tutarsız hareket çizgisi yaratmadan yüksek hassasiyetle çalışır. Kaymaz kauçuk alt taban her masa yüzeyinde sabit tutar.",
+    "fiyat": 320.00,
+    "teknik_ozellikler": {
+      "Boyut": "80 x 30 cm (Klavye + Mouse Birleşik)",
+      "Dolgu": "Yüksek Yoğunluklu Bellek Jeli",
+      "Yüzey": "Mikro-Dokulu Gaming Grade Kumaş",
+      "Taban": "Kaymaz Kauçuk"
+    }
+  },
+  {
+    "id": 358,
+    "baslik": "CoolDown Laptop Soğutma Standı",
+    "aciklama": "Laptopun altındaki ısıyı dağıtan dört adet sessiz ve güçlü fan barındıran, yükseklik ve açısı ayarlanabilir laptop soğutma standı. GPU ve CPU sıcaklığını 5-10 derece düşürerek hem termal kısıtlama (thermal throttling) önlenir hem de bileşenlerin ömrü uzatılır.\n\nBirleşik USB hub özelliği dört USB-A portu açığa çıkarır. İnce alüminyum kafes tasarımı ısı transferini en üst düzeye çıkarır ve hem hafif hem estetik görünüm sunar.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Fan": "4x 70mm PWM Sessiz Fan",
+      "Ayar": "6 Yükseklik + 3 Açı Kademesi",
+      "Bağlantı": "USB Powered + 4 Port Hub",
+      "Uyumluluk": "11 - 17 inç Laptop"
+    }
+  },
+  {
+    "id": 359,
+    "baslik": "SolarBag 25W Katlanabilir Güneş Paneli Çantası",
+    "aciklama": "Sırt çantasının dış yüzeyine bağlanan veya çadır tepesine asılan katlanabilir 25W monokristal güneş paneli. Yüzde yirmi üç verimli güneş hücrelerini koruyan su geçirmez laminasyon, yağmur altında da çalışmasına olanak tanır.\n\nIkili USB ve USB-C çıkışları telefondan tablet ve küçük cihazlara kadar aynı anda iki cihaz şarj edebilir. ETFE kaplama sayesinde klasik cam yüzeyli panellerden iki kat daha hafif ve dört kat daha esnektir.",
+    "fiyat": 1450.00,
+    "teknik_ozellikler": {
+      "Güç": "25W Monokristal",
+      "Verimlilik": "%23",
+      "Çıkış": "USB-C PD 18W + USB-A QC3.0",
+      "Malzeme": "ETFE Kaplama, Katlanabilir"
+    }
+  },
+  {
+    "id": 360,
+    "baslik": " Katlanabilir Şehir Bisikleti",
+    "aciklama": "Toplu taşıma ve bisiklet kombinasyonu için tasarlanmış, 20 inç tekerlekli katlanabilir şehir bisikleti. Magnezyum alaşım çerçeve standart katlanır bisikletlerin çelik gövdelerine kıyasla yüzde otuz daha hafif olup katlandığında metro ve otobüse binme standartlarını karşılar.\n\n7 vitesli Shimano kaseti şehrin trafik ışığı dolu zorlu başlangıçlarını kolaylaştıran geniş vites aralığı sunar. V-fren sistemi ıslak yüzeylerde güvenilir ve tutarlı fren gücü sağlar.",
+    "fiyat": 6800.00,
+    "teknik_ozellikler": {
+      "Tekerlek": "20 inç",
+      "Çerçeve": "Magnezyum Alaşım",
+      "Vites": "7 Hız Shimano Tourney",
+      "Ağırlık": "11.5 kg"
+    }
+  },
+  {
+    "id": 361,
+    "baslik": " Pro Organik Spor Enerji Barı (12'li)",
+    "aciklama": "Yapay katkı maddesi, koruyucu veya rafine şeker içermeyen, GOTS sertifikalı organik malzemelerden üretilen spor enerji barı 12'li paketi. Yulaf, bütün badem, organik bal ve meyve dolgusu kombine eden formülü uzun süreli ve istikrarlı enerji salınımı sağlar.\n\nKahvaltı öncesi, antrenman öncesi veya uzun patika yürüyüşlerinde hızlı ve kolay bir enerji kaynağı sunar. 12 çeşit lezzet seçeneğinden oluşan karışık paket, monotonluktan kaçınmanızı sağlar.",
+    "fiyat": 280.00,
+    "teknik_ozellikler": {
+      "Kalori": "Her Bar 200 kcal",
+      "Protein": "7g Bitkisel Protein",
+      "Sertifika": "GOTS Organik",
+      "İçerik": "12 Bar, 6 Farklı Lezzet"
+    }
+  },
+  {
+    "id": 362,
+    "baslik": "RecoveryShake Whey İzolat Protein Tozu (2kg)",
+    "aciklama": "Filtrasyonla laktoz ve yağ uzaklaştırılmış yüksek saflık whey izolat protein tozu sayesinde hazım kolaylığı sağlar ve laktoz intoleransı olan sporcular için de uygundur. 25g protein, 2.5g lösin ve tam aminoasit profili kas protein sentezini maksimize eder.\n\nÇikolata, vanilya, çilek ve salt karamel seçeneklerinde mevcut olan doğal tatlandırıcı (stevia) kullanımı suni şekerlerin olumsuz etkilerini ortadan kaldırır. 2 kg'lık büyük paket 66 porsiyon içerir.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Protein": "Her Porsiyonda 25g (%90 izolat)",
+      "BCAA": "5.5g (Tam Dallı Zincirli Aminoasit)",
+      "Tatlandırıcı": "Stevia (Suni Şekersiz)",
+      "Lezzet": "Çikolata / Vanilya / Çilek / Tuzlu Karamel"
+    }
+  },
+  {
+    "id": 363,
+    "baslik": "ElectroPulse EMS Kas Stimülasyon Cihazı",
+    "aciklama": "Elektriksel kas stimülasyonu (EMS) ile pasif antrenman ve aktif toparlanma desteği sağlayan 16 kanallı profesyonel vücut geliştirme cihazı. Özellikle fizik tedavi, sporcu rehabilitasyonu ve post-op kas tonusu kaybını geri kazanmak için spor hekimlerinin tavsiye ettiği bir yöntemdir.\n\n16 ped, vücudun farklı bölgelerini aynı anda uyarır. Tonlama, kuvvetlendirme, aktivasyon ve masaj dahil 10 mod ve 99 yoğunluk kademesiyle kişiselleştirilmiş kullanım sunar.",
+    "fiyat": 2800.00,
+    "teknik_ozellikler": {
+      "Kanal": "16 Kanal",
+      "Ped": "16 Adet (Farklı Boyut)",
+      "Modlar": "10 Program (EMS + TENS + Masaj)",
+      "Pil": "USB Şarjlı 2000 mAh"
+    }
+  },
+  {
+    "id": 364,
+    "baslik": "AquaPure Spor Filtreli Su Matarası (750ml)",
+    "aciklama": "İçine yerleştirilen aktif karbon ve iyon değiştirici filtre sayesinde nehir, göl veya musluk suyunu filtreleyerek içilebilir hale getiren spor matarası. 99.9% bakteri ve protozoa giderme kapasitesiyle çeşme suyunun yetersiz olduğu kamplarda ve seyahatlerde temiz su garantisi sağlar.\n\nFiltreli pipet doğrudan matarada kullanılır; ayrıca bir kap veya tencereye aktararak içmek için de süzgeç olarak kullanılabilir. 750 ml kapasitesindeki Tritan gövde BPA içermez ve bulaşık makinesinde yıkanabilir.",
+    "fiyat": 650.00,
+    "teknik_ozellikler": {
+      "Filtrasyon": "%99.9 Bakteri ve Protozoa Giderme",
+      "Filtre Ömrü": "1000 Litre (Yaklaşık 1 Yıl)",
+      "Hacim": "750 ml",
+      "Malzeme": "BPA-Free Tritan"
+    }
+  },
+  {
+    "id": 365,
+    "baslik": " Soğuk Demleme Kahve Seti",
+    "aciklama": "12-24 saat boyunca soğukta yavaş demleyerek en aromalı, asit düzeyi düşük kahveyi üreten cam ve ahşap kollu soğuk demleme seti. Yavaş damlatma yöntemi sıcak suyun eremeyeceği tatlı ve meyvemsi tat notalarını açığa çıkarır.\n\n1 litrelik borosilikat cam haznesi buzdolabında doğrudan saklanabilir. Ayarlanabilir damlatma hızı vanaları farklı öğütüm boyutu ve kahve çeşidine göre optimizasyon yapmanızı sağlar. İçindeki filtre kağıdı kesilmeden kendi boyutuna uyumu sağlar.",
+    "fiyat": 980.00,
+    "teknik_ozellikler": {
+      "Yöntem": "Soğuk Damlatma (Cold Drip)",
+      "Kapasite": "1 Litre (Yaklaşık 6 Bardak)",
+      "Materyal": "Borosilikat Cam + Ahşap",
+      "Vana": "Ayarlanabilir Damlatma Hız Kontrolü"
+    }
+  },
+  {
+    "id": 366,
+    "baslik": "MatchaKit Japon Matcha Seti",
+    "aciklama": "Japon çay seremonisinin (chado) geleneğine uygun olarak doğru teknişkle matcha hazırlamak için gerekli tüm ekipmanları içeren premium set. Bambu çırpma teli (chasen), bambu kaşık (chashaku), seramik kase (chawan) ve geleneksel matcha kavanozundan oluşur.\n\nBakımı kolaylaştırmak için chasen'i formunda koruyan bamboo tutucu (kusenaoshi) dahildir. 30g birinci sınıf (ceremonial grade) Uji Matcha da sete dahil edilmiştir ve soğuk içecekler için de harikadır.",
+    "fiyat": 780.00,
+    "teknik_ozellikler": {
+      "İçerik": "Chasen + Chashaku + Chawan + Kavano",
+      "Matcha": "30g Birinci Sınıf Uji Ceremonial Grade",
+      "Malzeme": "Bambu + Seramik (El Yapımı)",
+      "Ekstra": "Chasen Tutucu ve Öğütücü Dahil"
+    }
+  },
+  {
+    "id": 367,
+    "baslik": "TeaTime Akıllı Çay Demleme Cihazı",
+    "aciklama": "Farklı çay türlerinin ideal demleme sıcaklığı ve süresini tam olarak uygulayan, 1.5 litrelik kapasiteli akıllı çay demleme cihazı. Yeşil çayın 75 derece, siyah çayın 95 derece ve oolong çayın 85 derecede demlenmesi gerektiğini bilen akıllı sıcaklık programları tek tuşla seçilebilir.\n\nCam haznesi çay yapraklarının açılma sürecini görsel olarak takip etmeye imkan tanır. Demleme tamamlandığında otomatik süzgeç haznesi kapanır ve çay suya geçmesi durur; böylece aşırı demleme acılığı önlenir.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Kapasite": "1.5 Litre",
+      "Sıcaklık Kontrol": "50°C - 100°C (±1°C)",
+      "Programlar": "Yeşil, Beyaz, Oolong, Siyah, Bitki Çayı",
+      "Ekstra": "Otomatik Süzgeç Kaldırma Sistemi"
+    }
+  },
+  {
+    "id": 368,
+    "baslik": "HerbFarm Masaüstü Taze Bitki Yetiştirme Kiti",
+    "aciklama": "Mutfak tezgahında taze fesleğen, kişniş, maydanoz, nane ve roka yetiştirip doğrudan yemeklere eklenebilmesini sağlayan kompakt hidroponik bitki yetiştirme kiti. Beş bölmeli yuvarlak pod sistemi, her bitkiye aynı anda doğru miktarda su ve ışık almasını garanti eder.\n\nOtomatik ışık sistemi günde 16 saat çalışır ve geceyi simüle ederek bitkilerin büyüme döngüsünü en üst düzeye çıkarır. Birleşik filtre sistemi organik bakterilerin birikimini önler ve hafif balık kokusu oluşumunu engeller.",
+    "fiyat": 1450.00,
+    "teknik_ozellikler": {
+      "Pod Kapasitesi": "5 Bitki",
+      "Işık": "24W Full Spectrum LED (Otomatik 16/8 h döngü)",
+      "Sulama": "Otomatik Pompa + Su Seviyesi Sensörü",
+      "İçerik": "5 Başlangıç Tohum Kiti + Besin Çözeltisi"
+    }
+  },
+  {
+    "id": 369,
+    "baslik": "AromaDiffuse Pro Ultrasonik Esans Difüzörü",
+    "aciklama": "500 ml büyük kapasiteli su haznesiyle 12 saate kadar kesintisiz aromatik buhar üreten ultrasonik esans difüzörü. Ultra sessiz çalışma modu (< 25 dB) uyku sırasında kullanımı için idealdir ve sizi uyandırmadan nemi ve kokuyu korur.\n\n7 renk değiştiren LED aydınlatma hem gece lambası hem de ambiyans ışığı olarak çalışır. Otomatik kapanma; hazne boşaldığında cihazın zarar görmemesi için güvenli olarak kapanır. İnce buhar yerine yoğun sis akışı tercih edilen büyük odalar için de yeterli kapasitededir.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "Hazne": "500 ml",
+      "Çalışma Süresi": "12 saat (Düşük modda)",
+      "Ses Seviyesi": "< 25 dB",
+      "Işık": "7 Renk LED + Kapatma Seçeneği"
+    }
+  },
+  {
+    "id": 370,
+    "baslik": "SilkDream Bamboo Yatak Takımı (Çift Kişilik)",
+    "aciklama": "Bambu elyafından üretilen, ipek yumuşaklığında ve nefes alabilen çift kişilik yatak takımı. Bambu elyafı doğal olarak antibakteriyeldir, koku tutmaz ve %40 daha fazla nem çeker; bu nedenle gece terlemesi yaşayanlar ve hassas ciltliler için idealdir.\n\nHypoallerjinik özellikleri nedeniyle toz akarları ve küf oluşumu bambu kumaşta çok daha az görülür. 300 iş sayısı (thread count) yumuşaklık ile sağlamlık arasında mükemmel denge sunar.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "Malzeme": "%100 Bambu Viskoz (300 TC)",
+      "İçerik": "Çarşaf + Nevresim + 2 Yastık Kılıfı",
+      "Özellik": "Antibakteriyal, Hypoallerjinik",
+      "Bakım": "30°C Makinede Yıkanabilir"
+    }
+  },
+  {
+    "id": 371,
+    "baslik": "CloudPillow Bellek Köpük Boyun Yastığı",
+    "aciklama": "Yanlama ve sırtüstü uyuyanların boyun omurga hizasını destekleyen, vücut ısısına duyarlı bellek köpük boyun yastığı. Düz ve kontür olmak üzere iki farklı yükseklikte tasarlanmış iki profili olan yastık, yatma pozisyonuna göre ters çevrilerek kullanılabilir.\n\nSoğutucu jel katmanı bellek köpüğün sıcaklık tutma sorununu çözer ve yastığı gece boyunca serin tutar. Oyuklu yapı hava dolaşımını artırır. Kılıfı çıkarılıp 60°C'de makinede yıkanabilir.",
+    "fiyat": 780.00,
+    "teknik_ozellikler": {
+      "Malzeme": "Soğutucu Jel + Bellek Köpük",
+      "Profil": "Çift Taraf (Yüksek/Alçak)",
+      "Yoğunluk": "60 D Orta-Sert",
+      "Kılıf": "Çıkarılabilir, 60°C'de Makinede Yıkanabilir"
+    }
+  },
+  {
+    "id": 372,
+    "baslik": "WeightedWrap 7kg Ağırlıklı Battaniye",
+    "aciklama": "Anksiyete, uyku bozukluğu ve ADHD belirtilerini derin basınç terapisiyle (deep pressure stimulation) gideren ağırlıklı battaniye. Cam boncuk dolgu sistematiği sayesinde ağırlık her bölgeye eşit dağıtılır ve belirli bir noktada yük hissi oluşmaz.\n\nKöpük ve sentetik alternatiflerinden farklı olarak cam boncuk dolgu ısı biriktirmez ve battaniye ılıman kalır. 7 kg ağırlık, yaklaşık 60-80 kg ağırlık aralığında olan yetişkinler için önerilmektedir. Kılıfı makinede yıkanabilir.",
+    "fiyat": 2200.00,
+    "teknik_ozellikler": {
+      "Ağırlık": "7 kg",
+      "Dolgu": "Borosilikat Cam Boncuk",
+      "Boyut": "152 x 203 cm",
+      "Kılıf": "Çıkarılabilir Minky Peluş"
+    }
+  },
+  {
+    "id": 373,
+    "baslik": "IonAir HEPA Hava Temizleyici ve Nemlendirici Kombine",
+    "aciklama": "Tek cihazda hem PM2.5 seviyesine kadar hava kirleticileri filtreleyen HEPA sistemi hem de ultrasonik nemlendirici işlevi gören ikili hava kalite yöneticisi. Nem sensörü ortam nemini ölçerek istenen hedef neme ulaşınca nemlendiriciyi otomatik kapatır ve enerji israfını önler.\n\nAlerjik rinit, bronşit ve kuru cilt yaşayan bireyler için iki sistemin kombinasyonu, yalnızca birinin sunduğundan çok daha kapsamlı iç mekan hava kalitesi iyileştirmesi sağlar. HEPA filtresi altı ayda, aktif karbon filtresi üç ayda değiştirilir.",
+    "fiyat": 4200.00,
+    "teknik_ozellikler": {
+      "CADR": "180 m³/saat (35m² Oda İçin Yeterli)",
+      "Nem Aralığı": "%30 - %80 Otomatik Ayar",
+      "Filtre": "HEPA H13 + Aktif Karbon Çift Filtre",
+      "Bağlantı": "Wi-Fi + PM2.5 Sensörü"
+    }
+  },
+  {
+    "id": 374,
+    "baslik": "DeskPlant Teraryum Seti (4'lü Kapalı Ekosistem)",
+    "aciklama": "Sulama gerektirmeyen, kendi başına sürdürülen kapalı ekosistemin miniature versiyonu olan dört parçalı cam teraryum seti. Her teraryum; toprak tabanı, ince sphagnum yosunu ve tropikal mini bitki ile önceden dolgu yapılmış olarak teslim edilir.\n\nKapalı cam kabın içindeki su döngüsü sayesinde bitki kendi kendini sular ve kökleri hiçbir zaman kurumaz. Masada, raflarda veya pencere kenarlarında dekoratif yeşil nokta olarak çalışan bu teraryumlar hem ofis hem de ev dekorasyonunu canlandırır.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "İçerik": "4 Adet Cam Küre (10, 12, 15, 18 cm)",
+      "Bitki": "Her Kürde Hazır Bitki + Yosun + Toprak",
+      "Sulama": "Gerektirmez (Kapalı Ekosistem)",
+      "Işık": "Dolaylı Doğal Işık Yeterli"
+    }
+  },
+  {
+    "id": 375,
+    "baslik": "GrowLight Panel LED Bitkiler İçin Büyütme Lambası",
+    "aciklama": "Bitkinin fotosentez için ihtiyaç duyduğu kırmızı (660nm) ve mavi (450nm) dalga boylarını birleştiren Full Spectrum LED büyütme lambası paneli. 200W gerçek güç çekişi ile 1m² büyütme alanına yeterli foton ışını (PPFD) sağlar ve ticari yetiştiricilerin kullandığı ışık kalitesine yaklaşır.\n\nDimmer kontrolü (10-100%) ışığı bitkinin büyüme evresine (çimlenme, vejetatif, çiçeklenme) göre ayarlamanıza imkan tanır. Pasif soğutma kanatlı alüminyum radyatör fanların gereksiz gürültüsünü ortadan kaldırır.",
+    "fiyat": 2400.00,
+    "teknik_ozellikler": {
+      "Gerçek Güç": "200W",
+      "Spektrum": "Full Spectrum (Kırmızı 660nm + Mavi 450nm + Beyaz)",
+      "Kapsama": "1.0 x 1.0 m Büyüme Alanı",
+      "Soğutma": "Pasif Alüminyum Radyatör (Sessiz)"
+    }
+  },
+  {
+    "id": 376,
+    "baslik": " El Aletleri Başlangıç Seti (20 Parça)",
+    "aciklama": "Hobiciler ve zanaatkarlık başlangıcı için gerekli tüm temel el aletlerini bir arada sunan 20 parçalık kaliteli el aleti seti. Çekiç, rende, testere, tornavida seti, kerpeten, pense, mezura ve tahta keski seti içerir.\n\nKrom-vanadyum çelik başlıklar uzun ömürlü ve darbelere dayanıklı iken ceviz saplar avuçta dengeli ve rahat bir tutuş sağlar. Sert kanvas çanta tüm aletleri düzenli şekilde taşımanızı ve kategorize etmenizi sağlar.",
+    "fiyat": 1850.00,
+    "teknik_ozellikler": {
+      "İçerik": "20 Adet El Aleti",
+      "Malzeme": "CrV Çelik + Ceviz Sap",
+      "Çanta": "Sert Kanvas Organizer Çanta",
+      "Sertifika": "EN ISO 9001 Kalite Standardı"
+    }
+  },
+  {
+    "id": 377,
+    "baslik": " Şarjlı Darbeli Matkap Seti",
+    "aciklama": "Ahşap, beton ve metal delme ile vida sıkma ve vidayı geri almanın tamamını tek cihazda gerçekleştiren, 20V lityum iyon bataryalı şarjlı matkap. 18+1 tork ayarı hassas vida sıkmayı sağlarken, darbe modu beton ve taş delişlerde güç katsayısını artırır.\n\nYüksek kapasiteli 2 adet batarya seti ile uzun kullanımlarda pil değiştirerek kesintisiz çalışmayı sürdürülebilir. 102 aksesuarlı set; çeşitli uç boyutları, dübel, matkap uçları ve vida örnekleri ile ilk günden eksiksiz proje yapımı için hazır.",
+    "fiyat": 2800.00,
+    "teknik_ozellikler": {
+      "Güç": "20V - 55Nm",
+      "Mod": "Delme + Darbe Delme + Vida",
+      "Tork": "18+1 Kademe",
+      "Set": "102 Aksesuar + 2 Batarya + Şarj Cihazı"
+    }
+  },
+  {
+    "id": 378,
+    "baslik": " Ahşap Oyma ve Kesme Seti",
+    "aciklama": "Hobi oyma, ahşap sanatı ve ince oyma için gerekli tüm bıçak ve alet çeşitlerini kapsayan 25 parçalık profesyonel oyma seti. V kesici, U çentikli, düz ve eğri kesicilerden oluşan çeşit, yumuşak ve sert ahşapta tüm oyma tekniklerini destekler.\n\nErgonomik kauçuk saplar uzun oyma seanslarında el yorgunluğunu minimum tutar. Kesici uçlar dövme çelik olduktan sonra bileme taşıyla sonsuz kez keskinleştirilebilir. Ek olarak dahil edilen ahşap desen transferi kalemi tasarımı kağıttan ağaca aktarmayı kolaylaştırır.",
+    "fiyat": 650.00,
+    "teknik_ozellikler": {
+      "İçerik": "25 Adet Oyma Bıçağı ve Aleti",
+      "Çelik": "SK2 Yüksek Karbonlu Dövme Çelik",
+      "Sap": "Kauçuk Ergonomik Kavrama",
+      "Ekstra": "Bileme Taşı + Desen Transfer Kalemi"
+    }
+  },
+  {
+    "id": 379,
+    "baslik": " Otomatik Karartmalı Kaynak Maskesi",
+    "aciklama": "Kaynak arkı çaktığında 1/30.000 saniye içinde otomatik olarak kararan LCD lens sistemine sahip profesyonel kaynak maskesi. Karartma hızı ve rengi ayarlanabilir olduğu için TIG, MIG/MAG, MMA ve plazma kesimi dahil farklı kaynak yöntemlerine uyum sağlar.\n\nSolar ve pil hibrit güç sistemi pil bitmesi durumunda güneş enerjisinden destek alır ve kapanmaz. Geniş görüş alanı (100 x 60 mm) karmaşık dikişlerde çevresel görüşü kısıtlamaz.",
+    "fiyat": 1250.00,
+    "teknik_ozellikler": {
+      "Karartma Hızı": "1/30.000 Saniye",
+      "Karartma Aralığı": "DIN 9-13 Ayarlanabilir",
+      "Enerji": "Solar + Li-ion Batarya Hibrid",
+      "Görüş Alanı": "100 x 60 mm"
+    }
+  },
+  {
+    "id": 380,
+    "baslik": " Seramik Döşeme Porselen Fayans Kiti",
+    "aciklama": "Banyo veya mutfak backsplash projelerinde bütçeyi kısaltmak için profesyonellere gerek kalmadan kendinizin döşeyebileceği başlangıç fayans döşeme kiti. Dişli spatula, kauçuk silindirli tıkıştırma, derz süpürgesi ve waterproof harç dahildir.\n\nKitte yer alan 10 metre çeşit aralığında yapışkanlı fayans makası ve köşe kesme klavuzu karmaşık kenar ve köşe kesimlerini net hatlarla gerçekleştirmenizi sağlar. Türkçe adım adım montaj kılavuzu ve QR erişimli 45 dakikalık video ders ile ilk kez yapanlara yönlendirici destek sunulur.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "İçerik": "Spatula, Derz Süpürgesi, Silindirler, Makas",
+      "Harç": "Su Geçirmez Epoksi Harç 5 kg",
+      "Derz": "2 kg Derz Dolgusu (Gri / Beyaz Seçenek)",
+      "Eğitim": "Türkçe Kılavuz + Video Erişim"
+    }
+  },
+  {
+    "id": 381,
+    "baslik": " Profesyonel Tohum Yetiştirme Seti",
+    "aciklama": "Bahçıvanların en çok zorlandığı tohum çimlendirme aşamasını kolaylaştıran, ısıtmalı zemin pedi ve şeffaf kubbe kapağıyla nem ve sıcaklığı kontrol eden profesyonel fide yetiştirme seti. Isıtma pedi toprağın idealden düşmesini önleyerek çimlenme süresini ve başarı oranını artırır.\n\n72 gözenek kapasiteli viyol, küçük balkon bahçesinden büyük tarla projesine kadar her ölçekte kullanılmaya uygundur. Turba ve hindistan cevizi sabiti bazlı organik tohum yetiştirme toprağı 5 litre olarak sette yer alır.",
+    "fiyat": 580.00,
+    "teknik_ozellikler": {
+      "Gözenek": "72 Tohumluk Viyol",
+      "Isıtma": "20W Zemin Isıtma Pedi (25-35°C)",
+      "Kubbe": "Şeffaf UV Filtreli Nem Kapağı",
+      "Toprak": "5L Organik Fide Toprağı"
+    }
+  },
+  {
+    "id": 382,
+    "baslik": " Sprey Boya Sanat Seti (24 Renk)",
+    "aciklama": "Grafiti sanatı, kaya boyama ve mural (duvar resmi) sanatçıları için üretilen, yüksek basınçlı vanası ve değiştirilebilir kapsülleriyle profesyonel düzeyde kontrol sunan 24 renkli sprey boya seti. 400ml'lik her kutu, hızla kuruyan aseton bazlı formülüyle altüste kat uygulamasında birbirine karışmadan temiz renk sınırları oluşturur.\n\nGeniş (fat cap), ince (skinny cap) ve ultra ince (needle cap) dahil üç farklı kapsül seti ile hem geniş alan dolgusu hem de çizgi detay çalışması aynı sette yapılabilir.",
+    "fiyat": 1250.00,
+    "teknik_ozellikler": {
+      "İçerik": "24 x 400ml Sprey + 3 Tip Kapsül Seti",
+      "Kuruması": "Dokunabilir: 10 dk, Tam: 2 saat",
+      "Baskı": "3 Bar",
+      "Yüzey": "Metal, Beton, Ahşap, Tuval"
+    }
+  },
+  {
+    "id": 383,
+    "baslik": "Bisiklet Tamir Kiti",
+    "aciklama": "Her türlü bisiklet bakım ve onarım işlemini kendiniz yapabilmenizi sağlayan 32 parçalık profesyonel bisiklet tamir kiti. Lastik sökme plastiği, yamama seti, zincir ayırıcı, freze anahtarı seti, iç lastik basınç göstergesi ve çok işlevli hex anahtar seti dahildir.\n\nTaşıma fermuarlı canvas çanta sayesinde her şey tek yerde ve düzenli. Valf tipi her türlü bisiklet lastiğine uyumlu co2 kartuş adaptörü ile yol ortasında patlak tamir edilebilir. QR kod üzerinden 20 bakım videosu kütüphanesi de sete dahildir.",
+    "fiyat": 680.00,
+    "teknik_ozellikler": {
+      "İçerik": "32 Adet Tamir Aleti",
+      "Valf Uyumu": "Presta + Schrader",
+      "Taşıma": "Çantasıyla Birlikte",
+      "Eğitim": "QR ile 20 Video Bakım Kılavuzu"
+    }
+  },
+  {
+    "id": 384,
+    "baslik": "HomeBrewKit Evde Bira Yapım Başlangıç Kiti",
+    "aciklama": "Geleneksel ön fermentasyon (ale) yöntemiyle evde 20 litreye kadar kraft birasının tüm aşamalarını gerçekleştirmenizi sağlayan eksiksiz başlangıç seti. Fermantasyon kovası, hava kilidi, sifon seti, şişe kapağı ve hidrometreyle birlikte temel malt ve şerbetçiotu da dahildir.\n\nSet içindeki 64 sayfalık tarifler kitabı; American Pale Ale, Wheat Beer, Porter ve IPA dahil 10 farklı bira tarifi içerir. Her tarif için gerekli hammaddeler çevrimiçi olarak kolaylıkla temin edilebilir.",
+    "fiyat": 1250.00,
+    "teknik_ozellikler": {
+      "Kapasite": "20 Litre",
+      "İçerik": "Fermantasyon Kovası + Tüm Ekipman",
+      "Tarif": "10 Bira Tarifi (64 Sayfa)",
+      "Başlangıç Malzeme": "Malt + Şerbetçiotu + Maya Dahil"
+    }
+  },
+  {
+    "id": 385,
+    "baslik": "FirePit Taşınabilir Çelik Ateş Çukuru",
+    "aciklama": "Bahçe ve teraslarda ateş keyfi yaşatmak için tasarlanan, katlanır tripod ayaklarıyla her yüzeye kolayca kurulabilen taşınabilir ateş çukuru. 2mm kalın çekirdek Corten çeliği yüksek ısıya dayanırken, paslanmaya karşı dirençli bileşimi ile yıllarca şekil bozmaz.\n\nYakma tablası altındaki hava kanalı sistematiği oksijen akışını artırarak daha az duman ve daha yoğun alev sağlar. Tasarımına entegre spit (şiş) rayı, ateş başında barbekü yapmanıza olanak tanır.",
+    "fiyat": 2400.00,
+    "teknik_ozellikler": {
+      "Malzeme": "2mm Corten Çeliği",
+      "Çap": "60 cm",
+      "Yükseklik": "Ayarlanabilir Tripod 45-70 cm",
+      "Ekstra": "Taşıma Torbası + Barbekü Şiş Rayı"
+    }
+  },
+  {
+    "id": 386,
+    "baslik": "SmokeMaster Offset Barbekü Tütsüleme Fırını",
+    "aciklama": "Amerikan barbekü kültürünün ikonik low-and-slow pişirme yöntemini evinizin bahçesine taşıyan, yan ocak odunluklu offset tütsüleme fırını. Asimetrik tasarım, dumanlı ateşi asıl pişirme bölümüne yönlendirerek dolaylı ısı ve dumanlı aroma oluşturur.\n\n320°C'ye dayanıklı araç boyas ve 3mm çelik gövde uzun yıllar boyunca sağlam kalan bir yapı sunmaktadır. İç termometre, kapak tutacağı ve kömür rafı dahildir.",
+    "fiyat": 5800.00,
+    "teknik_ozellikler": {
+      "Tip": "Offset Tütsüleme (Smoker)",
+      "Gövde": "3mm Çelik Plaka",
+      "Pişirme Alanı": "Ana 0.35 m² + Yan Ocak 0.12 m²",
+      "Sıcaklık": "0-320°C İç Termometre"
+    }
+  },
+  {
+    "id": 387,
+    "baslik": " Propan Gazlı Dört Gözlü Barbekü",
+    "aciklama": "Dört ayrı bağımsız kontrollü propan brülörü ve yan yandaki wok gözü ile aynı anda beş farklı ısıda pişirme yapılabilen büyük kapasiteli gazlı barbekü. Dökme demir ızgara gövdesi alevle temas ettiğinde iyi tav tutarak et ve sebzelerde çizgili kızarma ve derin lezzet izleri oluşturur.\n\nKapalı kapak modu dolaylı ısı ile büyük kümes hayvanları ve büyükbaş rotisserie pişirmeye imkan tanır. İnsan boyutuna göre ayarlanabilen yükseklik ayarı uzun barbekü seanslarında bel ağrısını önler.",
+    "fiyat": 9500.00,
+    "teknik_ozellikler": {
+      "Brülör": "4 Ana + 1 Yan Brülör (Toplam 18.000 BTU)",
+      "Izgara": "Dökme Demir",
+      "Pişirme Alanı": "680 cm²",
+      "Ekstra": "Rotisserie Hazırlığı, Yükseklik Ayarlı"
+    }
+  },
+  {
+    "id": 388,
+    "baslik": " ı Taşınabilir Soğutucu Kutu",
+    "aciklama": "Kalın yalıtım duvarları ve airtight (hava sızdırmaz) kapak sistemiyle benzer hacimli standart soğutuculara kıyasla çok daha uzun süre soğuk tutan roto-molded performans soğutucu kutu. Buz veya soğutucu blok üç güne kadar erimemesini sağlar; bu süre standart soğutucuların iki katıdır.\n\nKoçboynuzu tutacakları ve kilitleme klapeleri hem güvenli kapanmayı hem de kolayca taşımayı sağlar. Dahili cetvel kenara entegre edilmiştir; balıkçılar avladıkları balıkların boyunu doğrudan ölçebilir.",
+    "fiyat": 3800.00,
+    "teknik_ozellikler": {
+      "Kapasite": "45 Litre",
+      "Yalıtım": "Roto-Molded Çift Duvar",
+      "Buz Tutma": "72 Saat (30°C Ortamda)",
+      "Ekstra": "Dahili Cetvel, Kilitleme Klapeleri"
+    }
+  },
+  {
+    "id": 389,
+    "baslik": "4 Kişilik Çantalı Piknik Seti ",
+    "aciklama": "Her şeyin yerli yerine kaldığı özel organizasyon bölmeleriyle, 4 kişilik piknik donanımını tek sırt çantasında toplayan eksiksiz piknik seti. İki taraflı açılan çanta; bir kısımda paslanmaz çelik tabak, bardak, çatal-kaşık-bıçak ve peçete setini barındırırken, diğer kısımda soğutucu bölme yer alır.\n\nSoğutucu bölme PEVA kaplamalı ve içine iki adet tekrar dondurulabilir soğutucu levha konulmaktadır. İpi ve kazıkları dahil piknik battaniyesi de çantanın alt cebine sığar.",
+    "fiyat": 1450.00,
+    "teknik_ozellikler": {
+      "Kapasite": "4 Kişilik Komple Set",
+      "İçerik": "Tabak, Bardak, Çatal-Kaşık-Bıçak + Soğutucu",
+      "Battaniye": "150 x 180 cm Piknik Battaniyesi",
+      "Malzeme": "Paslanmaz Çelik + Oxford Çanta"
     }
   }
+    
 ]
