@@ -85,6 +85,13 @@ export default function ChatScreen() {
             placeholderTextColor="#B4B2A9"
             multiline
             onSubmitEditing={handleSend}
+            onKeyPress={(e) => {
+              // Eğer Web'deysek, klavyeden 'Enter'a basıldıysa VE 'Shift' tuşuna basılı değilse
+              if (Platform.OS === 'web' && e.nativeEvent.key === 'Enter' && !e.nativeEvent.shiftKey) {
+                e.preventDefault(); // Varsayılan davranışı (alt satıra geçmeyi) iptal et
+                handleSend();       // Mesajı gönder
+              } 
+            }}
           />
           <TouchableOpacity
             style={[styles.sendBtn, (!input.trim() || isLoading) && styles.sendBtnDisabled]}

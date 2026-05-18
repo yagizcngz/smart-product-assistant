@@ -21,15 +21,37 @@ app.post('/api/chat', async (req, res) => {
         const { message } = req.body;
         console.log("Mesaj geldi:", message);
         
-        const products = JSON.parse(fs.readFileSync('products.json'));
+        const allProducts = JSON.parse(fs.readFileSync('products.json'));
 
-        const keywords = message.toLowerCase().split(' ');
-        const relatedProducts = products.filter(p => {
-            const textToSearch = (p.baslik + " " + p.aciklama).toLowerCase();
-            return keywords.some(keyword => keyword.length > 3 && textToSearch.includes(keyword));
-        }).slice(0, 5);
+        const rawKeywords = message.toLowerCase().split(' ');
+        const stopWords = ['bana', 'için', 'öner', 'bir', 'gibi', 'ile', 'çok', 'en', 'hangi', 'var', 'mı'];
 
-        console.log("Bulunan ürünler:", relatedProducts.length);
+        const keywords = rawKeywords.filter(word => word.length > 2 && !stopWords.includes(word));
+
+        const scoredProducts = allProducts.map(p => {
+            let score = 0;
+                const baslik = p.baslik.toLowerCase();
+            const aciklama = p.aciklama.toLowerCase();
+
+            keywords.forEach(keyword => {
+                if (baslik.includes(keyword)) {
+                    score += 10; 
+                }
+                else if (aciklama.includes(keyword)) {
+                    score += 1; 
+                }
+            });
+            return { ...p, score };
+        });
+
+            let filteredProducts = scoredProducts.filter(p => p.score > 0);
+            filteredProducts.sort((a, b) => b.score - a.score);
+
+        const relatedProducts = filteredProducts.length > 0 
+             ? filteredProducts.slice(0, 20) 
+             : allProducts.slice(0, 20);
+
+        console.log("Filtreden geçen ürün sayısı:", relatedProducts.length);
 
         const combinedPrompt = `
             KİMLİK: Sen Akıllı Ürün Asistanısın. 
