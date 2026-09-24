@@ -1,6 +1,7 @@
 {
   "name": "akilli-urun-asistani",
   "version": "1.0.0",
+  "description": "Gemini AI supported smart product recommendation assistant with RAG architecture",
   "main": "index.js",
   "engines": {
     "node": ">=18.0.0"
