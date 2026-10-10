@@ -1,4 +1,4 @@
-# 🛍️ Akıllı Ürün Asistanı (Smart Product Assistant)
+# 🛍️ Smart Product Assistant
 
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-5.x-000000?logo=express&logoColor=white)](https://expressjs.com/)
@@ -85,8 +85,8 @@ An AI-powered e-commerce recommendation system combining a **lightweight RAG (Re
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yagizcngz/akilli-urun-asistani.git
-   cd akilli-urun-asistani
+   git clone https://github.com/yagizcngz/smart-product-assistant.git
+   cd smart-product-assistant
    ```
 
 2. **Install backend dependencies:**
